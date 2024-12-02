@@ -1,0 +1,1501 @@
+Nome;Disciplina;Nota_NP1;Nota_NP2;Media;Status;Media_NP1
+Juliana Moura;Cálculo I;2.9;2.5;2.7;Reprovado;2.9
+Juliana Moura;Física I;6.6;3.7;5.2;Reprovado;6.6
+Juliana Moura;Algoritmos;8.9;4.6;6.8;Reprovado;8.9
+Juliana Moura;Banco de Dados;3.4;5.0;4.2;Reprovado;3.4
+Juliana Moura;Engenharia de Software;6.1;9.0;7.5;Aprovado;6.1
+Juliana Moura;Cálculo I;7.5;0.3;3.9;Reprovado;7.5
+Juliana Moura;Física I;5.0;5.0;5.0;Reprovado;5.0
+Juliana Moura;Algoritmos;2.7;0.4;1.6;Reprovado;2.7
+Juliana Moura;Banco de Dados;6.5;1.7;4.1;Reprovado;6.5
+Juliana Moura;Engenharia de Software;3.4;9.2;6.3;Reprovado;3.4
+Ana Paula;Cálculo I;4.0;8.3;6.2;Reprovado;4.0
+Ana Paula;Física I;1.8;6.9;4.4;Reprovado;1.8
+Ana Paula;Algoritmos;0.5;9.2;4.8;Reprovado;0.5
+Ana Paula;Banco de Dados;8.2;6.9;7.5;Aprovado;8.2
+Ana Paula;Engenharia de Software;8.4;7.5;8.0;Aprovado;8.4
+Rafael Pereira;Cálculo I;1.1;0.6;0.9;Reprovado;1.1
+Rafael Pereira;Física I;0.4;1.3;0.9;Reprovado;0.4
+Rafael Pereira;Algoritmos;7.7;1.6;4.7;Reprovado;7.7
+Rafael Pereira;Banco de Dados;5.6;2.6;4.1;Reprovado;5.6
+Rafael Pereira;Engenharia de Software;6.0;8.0;7.0;Aprovado;6.0
+Ana Paula;Cálculo I;0.1;6.9;3.5;Reprovado;0.1
+Ana Paula;Física I;4.9;6.4;5.7;Reprovado;4.9
+Ana Paula;Algoritmos;7.0;4.6;5.8;Reprovado;7.0
+Ana Paula;Banco de Dados;1.9;5.9;3.9;Reprovado;1.9
+Ana Paula;Engenharia de Software;2.1;2.8;2.5;Reprovado;2.1
+Carlos Eduardo;Cálculo I;8.7;5.8;7.2;Aprovado;8.7
+Carlos Eduardo;Física I;8.7;9.5;9.1;Aprovado;8.7
+Carlos Eduardo;Algoritmos;1.0;8.6;4.8;Reprovado;1.0
+Carlos Eduardo;Banco de Dados;4.2;8.5;6.3;Reprovado;4.2
+Carlos Eduardo;Engenharia de Software;9.4;8.8;9.1;Aprovado;9.4
+Luiz Henrique;Cálculo I;0.7;0.7;0.7;Reprovado;0.7
+Luiz Henrique;Física I;7.4;3.0;5.2;Reprovado;7.4
+Luiz Henrique;Algoritmos;1.0;3.9;2.5;Reprovado;1.0
+Luiz Henrique;Banco de Dados;2.6;7.8;5.2;Reprovado;2.6
+Luiz Henrique;Engenharia de Software;6.3;3.9;5.1;Reprovado;6.3
+Luiz Henrique;Cálculo I;3.9;4.1;4.0;Reprovado;3.9
+Luiz Henrique;Física I;1.1;2.5;1.8;Reprovado;1.1
+Luiz Henrique;Algoritmos;0.1;5.8;2.9;Reprovado;0.1
+Luiz Henrique;Banco de Dados;1.6;0.6;1.1;Reprovado;1.6
+Luiz Henrique;Engenharia de Software;0.4;5.6;3.0;Reprovado;0.4
+Juliana Moura;Cálculo I;1.5;0.1;0.8;Reprovado;1.5
+Juliana Moura;Física I;4.3;8.0;6.2;Reprovado;4.3
+Juliana Moura;Algoritmos;1.9;6.2;4.0;Reprovado;1.9
+Juliana Moura;Banco de Dados;7.7;6.2;7.0;Aprovado;7.7
+Juliana Moura;Engenharia de Software;2.6;0.5;1.6;Reprovado;2.6
+João da Silva;Cálculo I;1.5;2.2;1.9;Reprovado;1.5
+João da Silva;Física I;9.2;7.5;8.3;Aprovado;9.2
+João da Silva;Algoritmos;4.8;6.5;5.7;Reprovado;4.8
+João da Silva;Banco de Dados;1.2;6.1;3.6;Reprovado;1.2
+João da Silva;Engenharia de Software;2.4;9.6;6.0;Reprovado;2.4
+Fernanda Lima;Cálculo I;5.9;2.9;4.4;Reprovado;5.9
+Fernanda Lima;Física I;4.7;7.9;6.3;Reprovado;4.7
+Fernanda Lima;Algoritmos;9.6;5.2;7.4;Aprovado;9.6
+Fernanda Lima;Banco de Dados;9.4;7.8;8.6;Aprovado;9.4
+Fernanda Lima;Engenharia de Software;5.0;0.1;2.5;Reprovado;5.0
+João da Silva;Cálculo I;4.2;0.1;2.1;Reprovado;4.2
+João da Silva;Física I;6.9;10.0;8.4;Aprovado;6.9
+João da Silva;Algoritmos;7.7;5.6;6.7;Reprovado;7.7
+João da Silva;Banco de Dados;1.5;2.2;1.9;Reprovado;1.5
+João da Silva;Engenharia de Software;7.9;8.5;8.2;Aprovado;7.9
+Ana Paula;Cálculo I;2.5;1.0;1.8;Reprovado;2.5
+Ana Paula;Física I;3.1;6.6;4.8;Reprovado;3.1
+Ana Paula;Algoritmos;2.7;5.2;4.0;Reprovado;2.7
+Ana Paula;Banco de Dados;1.6;6.6;4.1;Reprovado;1.6
+Ana Paula;Engenharia de Software;8.0;9.8;8.9;Aprovado;8.0
+Camila Costa;Cálculo I;3.3;2.5;2.9;Reprovado;3.3
+Camila Costa;Física I;8.3;9.6;8.9;Aprovado;8.3
+Camila Costa;Algoritmos;5.1;6.0;5.5;Reprovado;5.1
+Camila Costa;Banco de Dados;6.7;6.0;6.3;Reprovado;6.7
+Camila Costa;Engenharia de Software;4.3;3.5;3.9;Reprovado;4.3
+Carlos Eduardo;Cálculo I;5.2;2.8;4.0;Reprovado;5.2
+Carlos Eduardo;Física I;8.9;1.2;5.0;Reprovado;8.9
+Carlos Eduardo;Algoritmos;3.1;5.2;4.2;Reprovado;3.1
+Carlos Eduardo;Banco de Dados;1.4;0.5;0.9;Reprovado;1.4
+Carlos Eduardo;Engenharia de Software;9.1;8.0;8.6;Aprovado;9.1
+Maria Oliveira;Cálculo I;2.5;10.0;6.2;Reprovado;2.5
+Maria Oliveira;Física I;0.2;1.0;0.6;Reprovado;0.2
+Maria Oliveira;Algoritmos;6.7;7.0;6.8;Reprovado;6.7
+Maria Oliveira;Banco de Dados;4.1;3.8;3.9;Reprovado;4.1
+Maria Oliveira;Engenharia de Software;2.2;6.7;4.5;Reprovado;2.2
+Juliana Moura;Cálculo I;2.4;1.6;2.0;Reprovado;2.4
+Juliana Moura;Física I;9.5;6.9;8.2;Aprovado;9.5
+Juliana Moura;Algoritmos;3.8;0.7;2.2;Reprovado;3.8
+Juliana Moura;Banco de Dados;6.2;2.7;4.5;Reprovado;6.2
+Juliana Moura;Engenharia de Software;1.4;6.4;3.9;Reprovado;1.4
+João da Silva;Cálculo I;6.1;4.1;5.1;Reprovado;6.1
+João da Silva;Física I;6.9;7.7;7.3;Aprovado;6.9
+João da Silva;Algoritmos;8.8;5.9;7.4;Aprovado;8.8
+João da Silva;Banco de Dados;9.0;0.6;4.8;Reprovado;9.0
+João da Silva;Engenharia de Software;3.2;0.3;1.8;Reprovado;3.2
+Fernanda Lima;Cálculo I;7.2;4.6;5.9;Reprovado;7.2
+Fernanda Lima;Física I;1.8;4.1;2.9;Reprovado;1.8
+Fernanda Lima;Algoritmos;6.4;6.2;6.3;Reprovado;6.4
+Fernanda Lima;Banco de Dados;2.2;6.3;4.2;Reprovado;2.2
+Fernanda Lima;Engenharia de Software;1.0;7.8;4.4;Reprovado;1.0
+Juliana Moura;Cálculo I;7.4;7.1;7.2;Aprovado;7.4
+Juliana Moura;Física I;0.6;4.2;2.4;Reprovado;0.6
+Juliana Moura;Algoritmos;8.9;8.8;8.9;Aprovado;8.9
+Juliana Moura;Banco de Dados;4.1;6.8;5.4;Reprovado;4.1
+Juliana Moura;Engenharia de Software;0.1;3.3;1.7;Reprovado;0.1
+João da Silva;Cálculo I;1.6;7.6;4.6;Reprovado;1.6
+João da Silva;Física I;7.6;2.7;5.2;Reprovado;7.6
+João da Silva;Algoritmos;7.3;1.9;4.6;Reprovado;7.3
+João da Silva;Banco de Dados;3.5;0.6;2.0;Reprovado;3.5
+João da Silva;Engenharia de Software;1.3;0.4;0.9;Reprovado;1.3
+Rafael Pereira;Cálculo I;3.5;4.2;3.9;Reprovado;3.5
+Rafael Pereira;Física I;0.2;7.7;4.0;Reprovado;0.2
+Rafael Pereira;Algoritmos;8.1;6.1;7.1;Aprovado;8.1
+Rafael Pereira;Banco de Dados;0.5;5.9;3.2;Reprovado;0.5
+Rafael Pereira;Engenharia de Software;4.8;6.5;5.7;Reprovado;4.8
+Rafael Pereira;Cálculo I;4.7;0.6;2.6;Reprovado;4.7
+Rafael Pereira;Física I;8.9;2.9;5.9;Reprovado;8.9
+Rafael Pereira;Algoritmos;3.8;3.0;3.4;Reprovado;3.8
+Rafael Pereira;Banco de Dados;8.4;3.4;5.9;Reprovado;8.4
+Rafael Pereira;Engenharia de Software;6.8;8.7;7.8;Aprovado;6.8
+Camila Costa;Cálculo I;9.6;9.2;9.4;Aprovado;9.6
+Camila Costa;Física I;5.7;1.6;3.7;Reprovado;5.7
+Camila Costa;Algoritmos;0.3;8.3;4.3;Reprovado;0.3
+Camila Costa;Banco de Dados;2.8;8.5;5.7;Reprovado;2.8
+Camila Costa;Engenharia de Software;10.0;4.4;7.2;Aprovado;10.0
+Juliana Moura;Cálculo I;4.0;8.8;6.4;Reprovado;4.0
+Juliana Moura;Física I;2.8;5.2;4.0;Reprovado;2.8
+Juliana Moura;Algoritmos;5.2;2.1;3.7;Reprovado;5.2
+Juliana Moura;Banco de Dados;4.0;0.0;2.0;Reprovado;4.0
+Juliana Moura;Engenharia de Software;0.9;7.6;4.2;Reprovado;0.9
+Maria Oliveira;Cálculo I;7.6;0.1;3.8;Reprovado;7.6
+Maria Oliveira;Física I;6.1;5.0;5.5;Reprovado;6.1
+Maria Oliveira;Algoritmos;3.8;1.0;2.4;Reprovado;3.8
+Maria Oliveira;Banco de Dados;8.8;4.1;6.5;Reprovado;8.8
+Maria Oliveira;Engenharia de Software;4.8;9.6;7.2;Aprovado;4.8
+Pedro Santos;Cálculo I;8.1;1.1;4.6;Reprovado;8.1
+Pedro Santos;Física I;9.5;4.3;6.9;Reprovado;9.5
+Pedro Santos;Algoritmos;4.7;8.2;6.4;Reprovado;4.7
+Pedro Santos;Banco de Dados;3.4;3.1;3.2;Reprovado;3.4
+Pedro Santos;Engenharia de Software;1.8;2.8;2.3;Reprovado;1.8
+Fernanda Lima;Cálculo I;0.0;0.0;0.0;Reprovado;0.0
+Fernanda Lima;Física I;4.4;8.7;6.5;Reprovado;4.4
+Fernanda Lima;Algoritmos;9.0;5.9;7.5;Aprovado;9.0
+Fernanda Lima;Banco de Dados;5.0;9.6;7.3;Aprovado;5.0
+Fernanda Lima;Engenharia de Software;3.2;4.6;3.9;Reprovado;3.2
+Juliana Moura;Cálculo I;4.2;4.0;4.1;Reprovado;4.2
+Juliana Moura;Física I;4.5;4.0;4.2;Reprovado;4.5
+Juliana Moura;Algoritmos;4.1;9.6;6.8;Reprovado;4.1
+Juliana Moura;Banco de Dados;7.8;1.9;4.8;Reprovado;7.8
+Juliana Moura;Engenharia de Software;3.9;5.8;4.8;Reprovado;3.9
+Juliana Moura;Cálculo I;5.2;7.6;6.4;Reprovado;5.2
+Juliana Moura;Física I;2.3;1.1;1.7;Reprovado;2.3
+Juliana Moura;Algoritmos;1.6;9.9;5.8;Reprovado;1.6
+Juliana Moura;Banco de Dados;5.1;6.0;5.5;Reprovado;5.1
+Juliana Moura;Engenharia de Software;3.5;3.1;3.3;Reprovado;3.5
+Camila Costa;Cálculo I;0.1;7.5;3.8;Reprovado;0.1
+Camila Costa;Física I;0.6;4.5;2.5;Reprovado;0.6
+Camila Costa;Algoritmos;2.7;5.8;4.2;Reprovado;2.7
+Camila Costa;Banco de Dados;5.9;1.6;3.8;Reprovado;5.9
+Camila Costa;Engenharia de Software;8.6;7.6;8.1;Aprovado;8.6
+Fernanda Lima;Cálculo I;1.3;3.1;2.2;Reprovado;1.3
+Fernanda Lima;Física I;0.9;7.5;4.2;Reprovado;0.9
+Fernanda Lima;Algoritmos;6.0;5.2;5.6;Reprovado;6.0
+Fernanda Lima;Banco de Dados;6.0;4.6;5.3;Reprovado;6.0
+Fernanda Lima;Engenharia de Software;2.2;4.8;3.5;Reprovado;2.2
+Luiz Henrique;Cálculo I;3.3;2.5;2.9;Reprovado;3.3
+Luiz Henrique;Física I;9.6;4.4;7.0;Aprovado;9.6
+Luiz Henrique;Algoritmos;7.3;0.6;3.9;Reprovado;7.3
+Luiz Henrique;Banco de Dados;5.8;0.4;3.1;Reprovado;5.8
+Luiz Henrique;Engenharia de Software;4.4;8.9;6.7;Reprovado;4.4
+Juliana Moura;Cálculo I;4.7;5.6;5.2;Reprovado;4.7
+Juliana Moura;Física I;8.6;5.8;7.2;Aprovado;8.6
+Juliana Moura;Algoritmos;0.2;4.9;2.6;Reprovado;0.2
+Juliana Moura;Banco de Dados;8.5;8.8;8.7;Aprovado;8.5
+Juliana Moura;Engenharia de Software;0.3;3.4;1.8;Reprovado;0.3
+Luiz Henrique;Cálculo I;3.6;3.7;3.7;Reprovado;3.6
+Luiz Henrique;Física I;5.8;9.5;7.7;Aprovado;5.8
+Luiz Henrique;Algoritmos;9.2;5.9;7.5;Aprovado;9.2
+Luiz Henrique;Banco de Dados;3.0;5.1;4.0;Reprovado;3.0
+Luiz Henrique;Engenharia de Software;6.0;0.1;3.0;Reprovado;6.0
+Luiz Henrique;Cálculo I;4.6;9.1;6.8;Reprovado;4.6
+Luiz Henrique;Física I;4.1;7.1;5.6;Reprovado;4.1
+Luiz Henrique;Algoritmos;3.0;8.0;5.5;Reprovado;3.0
+Luiz Henrique;Banco de Dados;2.6;6.5;4.5;Reprovado;2.6
+Luiz Henrique;Engenharia de Software;0.8;5.8;3.3;Reprovado;0.8
+João da Silva;Cálculo I;2.7;0.3;1.5;Reprovado;2.7
+João da Silva;Física I;3.5;1.0;2.2;Reprovado;3.5
+João da Silva;Algoritmos;8.1;1.0;4.5;Reprovado;8.1
+João da Silva;Banco de Dados;1.7;6.4;4.0;Reprovado;1.7
+João da Silva;Engenharia de Software;5.3;0.3;2.8;Reprovado;5.3
+Camila Costa;Cálculo I;9.9;7.4;8.7;Aprovado;9.9
+Camila Costa;Física I;1.3;6.5;3.9;Reprovado;1.3
+Camila Costa;Algoritmos;8.1;7.2;7.7;Aprovado;8.1
+Camila Costa;Banco de Dados;5.6;9.3;7.5;Aprovado;5.6
+Camila Costa;Engenharia de Software;0.9;4.6;2.8;Reprovado;0.9
+Luiz Henrique;Cálculo I;2.6;5.0;3.8;Reprovado;2.6
+Luiz Henrique;Física I;5.5;8.1;6.8;Reprovado;5.5
+Luiz Henrique;Algoritmos;8.3;9.5;8.9;Aprovado;8.3
+Luiz Henrique;Banco de Dados;4.6;5.0;4.8;Reprovado;4.6
+Luiz Henrique;Engenharia de Software;8.1;6.2;7.2;Aprovado;8.1
+Maria Oliveira;Cálculo I;9.0;9.6;9.3;Aprovado;9.0
+Maria Oliveira;Física I;7.3;6.7;7.0;Aprovado;7.3
+Maria Oliveira;Algoritmos;4.5;0.4;2.5;Reprovado;4.5
+Maria Oliveira;Banco de Dados;7.8;0.4;4.1;Reprovado;7.8
+Maria Oliveira;Engenharia de Software;1.7;1.1;1.4;Reprovado;1.7
+Carlos Eduardo;Cálculo I;2.7;7.5;5.1;Reprovado;2.7
+Carlos Eduardo;Física I;9.7;3.0;6.3;Reprovado;9.7
+Carlos Eduardo;Algoritmos;1.4;8.3;4.9;Reprovado;1.4
+Carlos Eduardo;Banco de Dados;3.5;2.8;3.1;Reprovado;3.5
+Carlos Eduardo;Engenharia de Software;5.1;0.5;2.8;Reprovado;5.1
+Ana Paula;Cálculo I;2.9;0.5;1.7;Reprovado;2.9
+Ana Paula;Física I;1.0;5.4;3.2;Reprovado;1.0
+Ana Paula;Algoritmos;3.0;7.1;5.0;Reprovado;3.0
+Ana Paula;Banco de Dados;3.8;6.6;5.2;Reprovado;3.8
+Ana Paula;Engenharia de Software;3.2;6.9;5.1;Reprovado;3.2
+Rafael Pereira;Cálculo I;6.3;7.8;7.0;Aprovado;6.3
+Rafael Pereira;Física I;1.0;1.2;1.1;Reprovado;1.0
+Rafael Pereira;Algoritmos;2.7;6.1;4.4;Reprovado;2.7
+Rafael Pereira;Banco de Dados;9.0;2.2;5.6;Reprovado;9.0
+Rafael Pereira;Engenharia de Software;7.9;5.1;6.5;Reprovado;7.9
+Pedro Santos;Cálculo I;3.8;3.7;3.8;Reprovado;3.8
+Pedro Santos;Física I;3.4;4.0;3.7;Reprovado;3.4
+Pedro Santos;Algoritmos;3.6;1.8;2.7;Reprovado;3.6
+Pedro Santos;Banco de Dados;3.2;8.0;5.6;Reprovado;3.2
+Pedro Santos;Engenharia de Software;8.2;3.4;5.8;Reprovado;8.2
+Fernanda Lima;Cálculo I;8.4;9.7;9.1;Aprovado;8.4
+Fernanda Lima;Física I;8.1;9.3;8.7;Aprovado;8.1
+Fernanda Lima;Algoritmos;2.2;0.2;1.2;Reprovado;2.2
+Fernanda Lima;Banco de Dados;6.2;8.6;7.4;Aprovado;6.2
+Fernanda Lima;Engenharia de Software;1.0;0.2;0.6;Reprovado;1.0
+Fernanda Lima;Cálculo I;7.2;5.6;6.4;Reprovado;7.2
+Fernanda Lima;Física I;2.6;3.7;3.2;Reprovado;2.6
+Fernanda Lima;Algoritmos;2.2;9.0;5.6;Reprovado;2.2
+Fernanda Lima;Banco de Dados;9.5;3.7;6.6;Reprovado;9.5
+Fernanda Lima;Engenharia de Software;8.4;2.8;5.6;Reprovado;8.4
+Camila Costa;Cálculo I;0.0;4.6;2.3;Reprovado;0.0
+Camila Costa;Física I;2.8;8.9;5.8;Reprovado;2.8
+Camila Costa;Algoritmos;6.2;7.2;6.7;Reprovado;6.2
+Camila Costa;Banco de Dados;1.0;4.5;2.8;Reprovado;1.0
+Camila Costa;Engenharia de Software;2.3;4.1;3.2;Reprovado;2.3
+Maria Oliveira;Cálculo I;4.5;7.0;5.8;Reprovado;4.5
+Maria Oliveira;Física I;2.8;0.8;1.8;Reprovado;2.8
+Maria Oliveira;Algoritmos;0.5;8.8;4.7;Reprovado;0.5
+Maria Oliveira;Banco de Dados;9.5;6.0;7.8;Aprovado;9.5
+Maria Oliveira;Engenharia de Software;9.5;3.6;6.5;Reprovado;9.5
+Luiz Henrique;Cálculo I;8.3;5.9;7.1;Aprovado;8.3
+Luiz Henrique;Física I;0.4;0.2;0.3;Reprovado;0.4
+Luiz Henrique;Algoritmos;1.8;4.0;2.9;Reprovado;1.8
+Luiz Henrique;Banco de Dados;7.4;2.3;4.8;Reprovado;7.4
+Luiz Henrique;Engenharia de Software;8.5;4.9;6.7;Reprovado;8.5
+Maria Oliveira;Cálculo I;8.1;7.7;7.9;Aprovado;8.1
+Maria Oliveira;Física I;9.9;9.7;9.8;Aprovado;9.9
+Maria Oliveira;Algoritmos;6.2;6.9;6.6;Reprovado;6.2
+Maria Oliveira;Banco de Dados;5.2;3.9;4.5;Reprovado;5.2
+Maria Oliveira;Engenharia de Software;4.1;2.0;3.0;Reprovado;4.1
+Camila Costa;Cálculo I;3.1;3.1;3.1;Reprovado;3.1
+Camila Costa;Física I;1.3;7.4;4.4;Reprovado;1.3
+Camila Costa;Algoritmos;5.3;8.1;6.7;Reprovado;5.3
+Camila Costa;Banco de Dados;1.3;9.4;5.4;Reprovado;1.3
+Camila Costa;Engenharia de Software;7.4;1.4;4.4;Reprovado;7.4
+Carlos Eduardo;Cálculo I;7.2;9.2;8.2;Aprovado;7.2
+Carlos Eduardo;Física I;7.4;9.3;8.4;Aprovado;7.4
+Carlos Eduardo;Algoritmos;8.5;5.6;7.0;Aprovado;8.5
+Carlos Eduardo;Banco de Dados;2.5;1.5;2.0;Reprovado;2.5
+Carlos Eduardo;Engenharia de Software;3.1;7.6;5.3;Reprovado;3.1
+Camila Costa;Cálculo I;6.6;7.0;6.8;Reprovado;6.6
+Camila Costa;Física I;4.5;9.0;6.8;Reprovado;4.5
+Camila Costa;Algoritmos;8.7;0.3;4.5;Reprovado;8.7
+Camila Costa;Banco de Dados;5.9;2.3;4.1;Reprovado;5.9
+Camila Costa;Engenharia de Software;8.0;5.7;6.8;Reprovado;8.0
+Luiz Henrique;Cálculo I;1.7;8.6;5.1;Reprovado;1.7
+Luiz Henrique;Física I;6.7;1.9;4.3;Reprovado;6.7
+Luiz Henrique;Algoritmos;2.6;0.2;1.4;Reprovado;2.6
+Luiz Henrique;Banco de Dados;8.8;4.5;6.7;Reprovado;8.8
+Luiz Henrique;Engenharia de Software;9.3;5.0;7.2;Aprovado;9.3
+Carlos Eduardo;Cálculo I;2.9;8.2;5.5;Reprovado;2.9
+Carlos Eduardo;Física I;9.7;8.1;8.9;Aprovado;9.7
+Carlos Eduardo;Algoritmos;7.8;0.7;4.2;Reprovado;7.8
+Carlos Eduardo;Banco de Dados;8.7;8.6;8.6;Aprovado;8.7
+Carlos Eduardo;Engenharia de Software;9.3;0.6;5.0;Reprovado;9.3
+Fernanda Lima;Cálculo I;3.1;7.6;5.3;Reprovado;3.1
+Fernanda Lima;Física I;7.1;2.3;4.7;Reprovado;7.1
+Fernanda Lima;Algoritmos;6.0;5.3;5.7;Reprovado;6.0
+Fernanda Lima;Banco de Dados;2.9;3.7;3.3;Reprovado;2.9
+Fernanda Lima;Engenharia de Software;2.2;8.7;5.4;Reprovado;2.2
+Fernanda Lima;Cálculo I;4.6;0.6;2.6;Reprovado;4.6
+Fernanda Lima;Física I;9.4;9.1;9.2;Aprovado;9.4
+Fernanda Lima;Algoritmos;5.4;3.6;4.5;Reprovado;5.4
+Fernanda Lima;Banco de Dados;2.6;7.6;5.1;Reprovado;2.6
+Fernanda Lima;Engenharia de Software;5.6;3.0;4.3;Reprovado;5.6
+Camila Costa;Cálculo I;0.6;1.5;1.1;Reprovado;0.6
+Camila Costa;Física I;8.6;5.0;6.8;Reprovado;8.6
+Camila Costa;Algoritmos;2.1;5.0;3.5;Reprovado;2.1
+Camila Costa;Banco de Dados;9.0;0.9;5.0;Reprovado;9.0
+Camila Costa;Engenharia de Software;7.8;4.1;5.9;Reprovado;7.8
+Ana Paula;Cálculo I;5.3;7.9;6.6;Reprovado;5.3
+Ana Paula;Física I;7.8;1.3;4.5;Reprovado;7.8
+Ana Paula;Algoritmos;9.1;1.7;5.4;Reprovado;9.1
+Ana Paula;Banco de Dados;5.1;6.0;5.5;Reprovado;5.1
+Ana Paula;Engenharia de Software;6.0;0.6;3.3;Reprovado;6.0
+Maria Oliveira;Cálculo I;5.7;9.0;7.3;Aprovado;5.7
+Maria Oliveira;Física I;4.3;6.4;5.3;Reprovado;4.3
+Maria Oliveira;Algoritmos;9.4;1.9;5.7;Reprovado;9.4
+Maria Oliveira;Banco de Dados;5.8;3.1;4.5;Reprovado;5.8
+Maria Oliveira;Engenharia de Software;5.2;3.8;4.5;Reprovado;5.2
+Fernanda Lima;Cálculo I;4.9;8.3;6.6;Reprovado;4.9
+Fernanda Lima;Física I;9.1;7.0;8.1;Aprovado;9.1
+Fernanda Lima;Algoritmos;4.9;1.8;3.4;Reprovado;4.9
+Fernanda Lima;Banco de Dados;0.1;3.2;1.7;Reprovado;0.1
+Fernanda Lima;Engenharia de Software;3.5;4.4;4.0;Reprovado;3.5
+João da Silva;Cálculo I;0.2;2.2;1.2;Reprovado;0.2
+João da Silva;Física I;0.0;1.2;0.6;Reprovado;0.0
+João da Silva;Algoritmos;5.0;8.2;6.6;Reprovado;5.0
+João da Silva;Banco de Dados;1.4;1.6;1.5;Reprovado;1.4
+João da Silva;Engenharia de Software;1.6;4.0;2.8;Reprovado;1.6
+Fernanda Lima;Cálculo I;9.4;3.0;6.2;Reprovado;9.4
+Fernanda Lima;Física I;9.4;6.8;8.1;Aprovado;9.4
+Fernanda Lima;Algoritmos;8.6;2.7;5.7;Reprovado;8.6
+Fernanda Lima;Banco de Dados;1.7;2.0;1.9;Reprovado;1.7
+Fernanda Lima;Engenharia de Software;4.7;7.0;5.8;Reprovado;4.7
+João da Silva;Cálculo I;4.3;7.5;5.9;Reprovado;4.3
+João da Silva;Física I;3.6;6.2;4.9;Reprovado;3.6
+João da Silva;Algoritmos;4.8;5.9;5.3;Reprovado;4.8
+João da Silva;Banco de Dados;3.3;1.1;2.2;Reprovado;3.3
+João da Silva;Engenharia de Software;0.6;4.3;2.4;Reprovado;0.6
+Juliana Moura;Cálculo I;6.2;8.6;7.4;Aprovado;6.2
+Juliana Moura;Física I;4.3;1.1;2.7;Reprovado;4.3
+Juliana Moura;Algoritmos;9.5;10.0;9.8;Aprovado;9.5
+Juliana Moura;Banco de Dados;0.2;4.3;2.2;Reprovado;0.2
+Juliana Moura;Engenharia de Software;7.9;9.5;8.7;Aprovado;7.9
+Camila Costa;Cálculo I;9.6;5.7;7.7;Aprovado;9.6
+Camila Costa;Física I;6.6;4.1;5.3;Reprovado;6.6
+Camila Costa;Algoritmos;6.5;5.9;6.2;Reprovado;6.5
+Camila Costa;Banco de Dados;0.3;1.2;0.8;Reprovado;0.3
+Camila Costa;Engenharia de Software;8.4;5.8;7.1;Aprovado;8.4
+Maria Oliveira;Cálculo I;9.5;9.2;9.3;Aprovado;9.5
+Maria Oliveira;Física I;7.7;0.1;3.9;Reprovado;7.7
+Maria Oliveira;Algoritmos;9.6;1.9;5.8;Reprovado;9.6
+Maria Oliveira;Banco de Dados;4.9;5.8;5.3;Reprovado;4.9
+Maria Oliveira;Engenharia de Software;5.0;7.1;6.0;Reprovado;5.0
+Maria Oliveira;Cálculo I;2.9;9.7;6.3;Reprovado;2.9
+Maria Oliveira;Física I;9.3;5.1;7.2;Aprovado;9.3
+Maria Oliveira;Algoritmos;7.0;5.9;6.5;Reprovado;7.0
+Maria Oliveira;Banco de Dados;9.8;6.5;8.2;Aprovado;9.8
+Maria Oliveira;Engenharia de Software;5.8;7.4;6.6;Reprovado;5.8
+Rafael Pereira;Cálculo I;0.2;8.1;4.1;Reprovado;0.2
+Rafael Pereira;Física I;1.3;1.9;1.6;Reprovado;1.3
+Rafael Pereira;Algoritmos;0.8;9.7;5.2;Reprovado;0.8
+Rafael Pereira;Banco de Dados;1.5;7.1;4.3;Reprovado;1.5
+Rafael Pereira;Engenharia de Software;9.3;4.6;7.0;Aprovado;9.3
+Camila Costa;Cálculo I;0.3;1.4;0.8;Reprovado;0.3
+Camila Costa;Física I;5.3;3.2;4.2;Reprovado;5.3
+Camila Costa;Algoritmos;1.9;6.3;4.1;Reprovado;1.9
+Camila Costa;Banco de Dados;6.9;2.1;4.5;Reprovado;6.9
+Camila Costa;Engenharia de Software;6.0;5.1;5.5;Reprovado;6.0
+Carlos Eduardo;Cálculo I;0.1;5.6;2.8;Reprovado;0.1
+Carlos Eduardo;Física I;2.3;4.9;3.6;Reprovado;2.3
+Carlos Eduardo;Algoritmos;5.6;4.2;4.9;Reprovado;5.6
+Carlos Eduardo;Banco de Dados;4.3;6.2;5.2;Reprovado;4.3
+Carlos Eduardo;Engenharia de Software;2.8;7.9;5.3;Reprovado;2.8
+Maria Oliveira;Cálculo I;2.1;9.6;5.8;Reprovado;2.1
+Maria Oliveira;Física I;2.5;3.0;2.8;Reprovado;2.5
+Maria Oliveira;Algoritmos;1.0;6.6;3.8;Reprovado;1.0
+Maria Oliveira;Banco de Dados;6.9;1.5;4.2;Reprovado;6.9
+Maria Oliveira;Engenharia de Software;4.8;5.0;4.9;Reprovado;4.8
+Ana Paula;Cálculo I;0.2;8.6;4.4;Reprovado;0.2
+Ana Paula;Física I;1.7;6.8;4.2;Reprovado;1.7
+Ana Paula;Algoritmos;8.6;0.3;4.5;Reprovado;8.6
+Ana Paula;Banco de Dados;1.9;9.9;5.9;Reprovado;1.9
+Ana Paula;Engenharia de Software;1.2;7.4;4.3;Reprovado;1.2
+Rafael Pereira;Cálculo I;8.7;9.7;9.2;Aprovado;8.7
+Rafael Pereira;Física I;2.7;3.6;3.2;Reprovado;2.7
+Rafael Pereira;Algoritmos;8.9;4.7;6.8;Reprovado;8.9
+Rafael Pereira;Banco de Dados;3.3;3.6;3.5;Reprovado;3.3
+Rafael Pereira;Engenharia de Software;2.3;6.5;4.4;Reprovado;2.3
+Carlos Eduardo;Cálculo I;4.6;7.5;6.0;Reprovado;4.6
+Carlos Eduardo;Física I;9.4;1.6;5.5;Reprovado;9.4
+Carlos Eduardo;Algoritmos;6.8;3.5;5.2;Reprovado;6.8
+Carlos Eduardo;Banco de Dados;0.1;0.9;0.5;Reprovado;0.1
+Carlos Eduardo;Engenharia de Software;9.4;0.4;4.9;Reprovado;9.4
+Pedro Santos;Cálculo I;2.1;8.4;5.2;Reprovado;2.1
+Pedro Santos;Física I;5.0;5.0;5.0;Reprovado;5.0
+Pedro Santos;Algoritmos;7.0;4.0;5.5;Reprovado;7.0
+Pedro Santos;Banco de Dados;8.7;4.1;6.4;Reprovado;8.7
+Pedro Santos;Engenharia de Software;4.6;9.6;7.1;Aprovado;4.6
+Luiz Henrique;Cálculo I;6.2;4.0;5.1;Reprovado;6.2
+Luiz Henrique;Física I;9.7;4.9;7.3;Aprovado;9.7
+Luiz Henrique;Algoritmos;5.7;6.8;6.2;Reprovado;5.7
+Luiz Henrique;Banco de Dados;1.8;2.3;2.0;Reprovado;1.8
+Luiz Henrique;Engenharia de Software;8.9;4.1;6.5;Reprovado;8.9
+Camila Costa;Cálculo I;2.9;8.3;5.6;Reprovado;2.9
+Camila Costa;Física I;4.7;3.8;4.2;Reprovado;4.7
+Camila Costa;Algoritmos;5.4;7.7;6.6;Reprovado;5.4
+Camila Costa;Banco de Dados;4.0;4.8;4.4;Reprovado;4.0
+Camila Costa;Engenharia de Software;3.9;4.9;4.4;Reprovado;3.9
+Luiz Henrique;Cálculo I;0.8;0.3;0.6;Reprovado;0.8
+Luiz Henrique;Física I;7.8;3.0;5.4;Reprovado;7.8
+Luiz Henrique;Algoritmos;4.3;2.1;3.2;Reprovado;4.3
+Luiz Henrique;Banco de Dados;8.1;1.6;4.8;Reprovado;8.1
+Luiz Henrique;Engenharia de Software;0.3;4.0;2.1;Reprovado;0.3
+João da Silva;Cálculo I;9.7;9.2;9.4;Aprovado;9.7
+João da Silva;Física I;3.0;4.1;3.5;Reprovado;3.0
+João da Silva;Algoritmos;3.8;7.2;5.5;Reprovado;3.8
+João da Silva;Banco de Dados;2.6;6.4;4.5;Reprovado;2.6
+João da Silva;Engenharia de Software;1.0;1.5;1.2;Reprovado;1.0
+Maria Oliveira;Cálculo I;3.2;3.0;3.1;Reprovado;3.2
+Maria Oliveira;Física I;7.3;8.4;7.8;Aprovado;7.3
+Maria Oliveira;Algoritmos;9.4;5.5;7.5;Aprovado;9.4
+Maria Oliveira;Banco de Dados;8.4;5.6;7.0;Aprovado;8.4
+Maria Oliveira;Engenharia de Software;0.7;3.0;1.9;Reprovado;0.7
+Juliana Moura;Cálculo I;0.5;0.4;0.5;Reprovado;0.5
+Juliana Moura;Física I;4.4;7.1;5.8;Reprovado;4.4
+Juliana Moura;Algoritmos;3.7;5.4;4.6;Reprovado;3.7
+Juliana Moura;Banco de Dados;7.0;7.9;7.5;Aprovado;7.0
+Juliana Moura;Engenharia de Software;5.3;7.7;6.5;Reprovado;5.3
+Luiz Henrique;Cálculo I;7.1;1.5;4.3;Reprovado;7.1
+Luiz Henrique;Física I;9.5;0.6;5.0;Reprovado;9.5
+Luiz Henrique;Algoritmos;9.4;2.4;5.9;Reprovado;9.4
+Luiz Henrique;Banco de Dados;4.5;9.8;7.2;Aprovado;4.5
+Luiz Henrique;Engenharia de Software;9.5;8.0;8.8;Aprovado;9.5
+Luiz Henrique;Cálculo I;7.9;1.4;4.7;Reprovado;7.9
+Luiz Henrique;Física I;2.3;2.6;2.5;Reprovado;2.3
+Luiz Henrique;Algoritmos;7.4;0.3;3.9;Reprovado;7.4
+Luiz Henrique;Banco de Dados;1.6;3.7;2.7;Reprovado;1.6
+Luiz Henrique;Engenharia de Software;8.1;7.6;7.8;Aprovado;8.1
+Rafael Pereira;Cálculo I;8.2;7.5;7.8;Aprovado;8.2
+Rafael Pereira;Física I;5.9;8.5;7.2;Aprovado;5.9
+Rafael Pereira;Algoritmos;0.9;7.5;4.2;Reprovado;0.9
+Rafael Pereira;Banco de Dados;6.5;1.4;4.0;Reprovado;6.5
+Rafael Pereira;Engenharia de Software;7.7;3.2;5.5;Reprovado;7.7
+Juliana Moura;Cálculo I;6.1;3.2;4.7;Reprovado;6.1
+Juliana Moura;Física I;8.1;9.8;8.9;Aprovado;8.1
+Juliana Moura;Algoritmos;5.0;7.8;6.4;Reprovado;5.0
+Juliana Moura;Banco de Dados;5.2;7.9;6.6;Reprovado;5.2
+Juliana Moura;Engenharia de Software;9.4;3.2;6.3;Reprovado;9.4
+Rafael Pereira;Cálculo I;9.3;7.2;8.2;Aprovado;9.3
+Rafael Pereira;Física I;2.9;3.4;3.1;Reprovado;2.9
+Rafael Pereira;Algoritmos;4.2;7.0;5.6;Reprovado;4.2
+Rafael Pereira;Banco de Dados;5.1;8.5;6.8;Reprovado;5.1
+Rafael Pereira;Engenharia de Software;3.5;5.9;4.7;Reprovado;3.5
+João da Silva;Cálculo I;0.4;7.7;4.0;Reprovado;0.4
+João da Silva;Física I;5.6;4.0;4.8;Reprovado;5.6
+João da Silva;Algoritmos;3.1;6.3;4.7;Reprovado;3.1
+João da Silva;Banco de Dados;5.8;8.6;7.2;Aprovado;5.8
+João da Silva;Engenharia de Software;4.6;6.8;5.7;Reprovado;4.6
+Fernanda Lima;Cálculo I;3.1;1.8;2.5;Reprovado;3.1
+Fernanda Lima;Física I;1.5;4.1;2.8;Reprovado;1.5
+Fernanda Lima;Algoritmos;8.7;3.1;5.9;Reprovado;8.7
+Fernanda Lima;Banco de Dados;1.6;1.4;1.5;Reprovado;1.6
+Fernanda Lima;Engenharia de Software;0.3;8.5;4.4;Reprovado;0.3
+Ana Paula;Cálculo I;9.9;4.2;7.1;Aprovado;9.9
+Ana Paula;Física I;0.4;0.8;0.6;Reprovado;0.4
+Ana Paula;Algoritmos;6.4;0.8;3.6;Reprovado;6.4
+Ana Paula;Banco de Dados;4.2;0.3;2.2;Reprovado;4.2
+Ana Paula;Engenharia de Software;1.4;6.6;4.0;Reprovado;1.4
+Ana Paula;Cálculo I;3.9;7.9;5.9;Reprovado;3.9
+Ana Paula;Física I;3.4;3.6;3.5;Reprovado;3.4
+Ana Paula;Algoritmos;2.5;3.3;2.9;Reprovado;2.5
+Ana Paula;Banco de Dados;6.4;8.6;7.5;Aprovado;6.4
+Ana Paula;Engenharia de Software;8.7;8.5;8.6;Aprovado;8.7
+Luiz Henrique;Cálculo I;4.4;8.9;6.7;Reprovado;4.4
+Luiz Henrique;Física I;2.0;0.4;1.2;Reprovado;2.0
+Luiz Henrique;Algoritmos;5.1;6.3;5.7;Reprovado;5.1
+Luiz Henrique;Banco de Dados;9.8;5.1;7.5;Aprovado;9.8
+Luiz Henrique;Engenharia de Software;7.1;0.5;3.8;Reprovado;7.1
+Juliana Moura;Cálculo I;4.2;0.9;2.6;Reprovado;4.2
+Juliana Moura;Física I;2.9;7.7;5.3;Reprovado;2.9
+Juliana Moura;Algoritmos;7.9;9.3;8.6;Aprovado;7.9
+Juliana Moura;Banco de Dados;0.6;1.5;1.1;Reprovado;0.6
+Juliana Moura;Engenharia de Software;4.7;3.1;3.9;Reprovado;4.7
+Rafael Pereira;Cálculo I;9.3;4.1;6.7;Reprovado;9.3
+Rafael Pereira;Física I;5.5;5.2;5.3;Reprovado;5.5
+Rafael Pereira;Algoritmos;5.1;9.4;7.2;Aprovado;5.1
+Rafael Pereira;Banco de Dados;1.8;2.4;2.1;Reprovado;1.8
+Rafael Pereira;Engenharia de Software;0.2;6.2;3.2;Reprovado;0.2
+Juliana Moura;Cálculo I;1.0;6.7;3.9;Reprovado;1.0
+Juliana Moura;Física I;3.8;0.5;2.1;Reprovado;3.8
+Juliana Moura;Algoritmos;1.9;6.6;4.2;Reprovado;1.9
+Juliana Moura;Banco de Dados;1.6;3.3;2.5;Reprovado;1.6
+Juliana Moura;Engenharia de Software;7.1;5.6;6.3;Reprovado;7.1
+Rafael Pereira;Cálculo I;1.7;4.0;2.9;Reprovado;1.7
+Rafael Pereira;Física I;6.1;2.8;4.4;Reprovado;6.1
+Rafael Pereira;Algoritmos;9.8;4.9;7.4;Aprovado;9.8
+Rafael Pereira;Banco de Dados;3.4;3.0;3.2;Reprovado;3.4
+Rafael Pereira;Engenharia de Software;7.8;5.7;6.8;Reprovado;7.8
+Luiz Henrique;Cálculo I;3.7;3.4;3.5;Reprovado;3.7
+Luiz Henrique;Física I;0.5;5.5;3.0;Reprovado;0.5
+Luiz Henrique;Algoritmos;9.4;9.7;9.6;Aprovado;9.4
+Luiz Henrique;Banco de Dados;7.4;0.9;4.2;Reprovado;7.4
+Luiz Henrique;Engenharia de Software;6.0;4.6;5.3;Reprovado;6.0
+Carlos Eduardo;Cálculo I;5.4;6.2;5.8;Reprovado;5.4
+Carlos Eduardo;Física I;10.0;2.3;6.2;Reprovado;10.0
+Carlos Eduardo;Algoritmos;2.5;2.9;2.7;Reprovado;2.5
+Carlos Eduardo;Banco de Dados;6.5;7.7;7.1;Aprovado;6.5
+Carlos Eduardo;Engenharia de Software;2.1;1.1;1.6;Reprovado;2.1
+Pedro Santos;Cálculo I;1.0;2.9;1.9;Reprovado;1.0
+Pedro Santos;Física I;0.3;7.3;3.8;Reprovado;0.3
+Pedro Santos;Algoritmos;0.5;6.4;3.5;Reprovado;0.5
+Pedro Santos;Banco de Dados;0.1;8.7;4.4;Reprovado;0.1
+Pedro Santos;Engenharia de Software;5.9;1.9;3.9;Reprovado;5.9
+João da Silva;Cálculo I;4.9;5.0;5.0;Reprovado;4.9
+João da Silva;Física I;0.0;1.0;0.5;Reprovado;0.0
+João da Silva;Algoritmos;8.8;3.7;6.2;Reprovado;8.8
+João da Silva;Banco de Dados;9.5;7.6;8.6;Aprovado;9.5
+João da Silva;Engenharia de Software;5.0;4.5;4.8;Reprovado;5.0
+Carlos Eduardo;Cálculo I;1.2;7.3;4.2;Reprovado;1.2
+Carlos Eduardo;Física I;4.0;8.4;6.2;Reprovado;4.0
+Carlos Eduardo;Algoritmos;7.7;3.7;5.7;Reprovado;7.7
+Carlos Eduardo;Banco de Dados;5.4;3.6;4.5;Reprovado;5.4
+Carlos Eduardo;Engenharia de Software;6.2;7.9;7.1;Aprovado;6.2
+Luiz Henrique;Cálculo I;3.2;0.3;1.8;Reprovado;3.2
+Luiz Henrique;Física I;0.7;10.0;5.3;Reprovado;0.7
+Luiz Henrique;Algoritmos;6.1;4.0;5.0;Reprovado;6.1
+Luiz Henrique;Banco de Dados;3.5;6.8;5.2;Reprovado;3.5
+Luiz Henrique;Engenharia de Software;6.9;0.0;3.5;Reprovado;6.9
+Maria Oliveira;Cálculo I;9.5;1.6;5.5;Reprovado;9.5
+Maria Oliveira;Física I;5.8;6.0;5.9;Reprovado;5.8
+Maria Oliveira;Algoritmos;5.1;4.6;4.8;Reprovado;5.1
+Maria Oliveira;Banco de Dados;8.4;7.1;7.8;Aprovado;8.4
+Maria Oliveira;Engenharia de Software;9.2;2.5;5.8;Reprovado;9.2
+Camila Costa;Cálculo I;5.6;9.7;7.6;Aprovado;5.6
+Camila Costa;Física I;8.4;0.5;4.5;Reprovado;8.4
+Camila Costa;Algoritmos;1.5;9.4;5.5;Reprovado;1.5
+Camila Costa;Banco de Dados;2.8;2.1;2.5;Reprovado;2.8
+Camila Costa;Engenharia de Software;6.9;8.2;7.5;Aprovado;6.9
+Fernanda Lima;Cálculo I;9.3;7.2;8.2;Aprovado;9.3
+Fernanda Lima;Física I;8.9;5.0;7.0;Aprovado;8.9
+Fernanda Lima;Algoritmos;1.3;1.4;1.4;Reprovado;1.3
+Fernanda Lima;Banco de Dados;3.0;3.9;3.5;Reprovado;3.0
+Fernanda Lima;Engenharia de Software;3.5;3.7;3.6;Reprovado;3.5
+Carlos Eduardo;Cálculo I;1.0;4.7;2.9;Reprovado;1.0
+Carlos Eduardo;Física I;8.2;9.3;8.8;Aprovado;8.2
+Carlos Eduardo;Algoritmos;2.9;6.3;4.6;Reprovado;2.9
+Carlos Eduardo;Banco de Dados;4.8;9.4;7.1;Aprovado;4.8
+Carlos Eduardo;Engenharia de Software;0.8;8.5;4.7;Reprovado;0.8
+Juliana Moura;Cálculo I;1.3;5.1;3.2;Reprovado;1.3
+Juliana Moura;Física I;9.6;6.7;8.2;Aprovado;9.6
+Juliana Moura;Algoritmos;2.5;0.7;1.6;Reprovado;2.5
+Juliana Moura;Banco de Dados;4.4;8.3;6.4;Reprovado;4.4
+Juliana Moura;Engenharia de Software;1.5;1.9;1.7;Reprovado;1.5
+Juliana Moura;Cálculo I;1.8;2.6;2.2;Reprovado;1.8
+Juliana Moura;Física I;5.6;7.7;6.7;Reprovado;5.6
+Juliana Moura;Algoritmos;4.4;5.1;4.8;Reprovado;4.4
+Juliana Moura;Banco de Dados;3.6;2.3;3.0;Reprovado;3.6
+Juliana Moura;Engenharia de Software;0.5;5.3;2.9;Reprovado;0.5
+Maria Oliveira;Cálculo I;4.0;6.3;5.2;Reprovado;4.0
+Maria Oliveira;Física I;6.1;7.6;6.8;Reprovado;6.1
+Maria Oliveira;Algoritmos;8.8;0.8;4.8;Reprovado;8.8
+Maria Oliveira;Banco de Dados;7.4;5.8;6.6;Reprovado;7.4
+Maria Oliveira;Engenharia de Software;3.3;0.7;2.0;Reprovado;3.3
+Juliana Moura;Cálculo I;5.0;2.2;3.6;Reprovado;5.0
+Juliana Moura;Física I;2.0;5.3;3.6;Reprovado;2.0
+Juliana Moura;Algoritmos;3.9;5.1;4.5;Reprovado;3.9
+Juliana Moura;Banco de Dados;4.4;2.2;3.3;Reprovado;4.4
+Juliana Moura;Engenharia de Software;3.5;8.4;6.0;Reprovado;3.5
+João da Silva;Cálculo I;3.2;8.2;5.7;Reprovado;3.2
+João da Silva;Física I;7.3;0.5;3.9;Reprovado;7.3
+João da Silva;Algoritmos;2.8;4.7;3.8;Reprovado;2.8
+João da Silva;Banco de Dados;6.6;2.6;4.6;Reprovado;6.6
+João da Silva;Engenharia de Software;1.5;5.8;3.6;Reprovado;1.5
+Maria Oliveira;Cálculo I;5.4;5.1;5.2;Reprovado;5.4
+Maria Oliveira;Física I;6.1;6.3;6.2;Reprovado;6.1
+Maria Oliveira;Algoritmos;8.7;6.3;7.5;Aprovado;8.7
+Maria Oliveira;Banco de Dados;7.1;1.6;4.3;Reprovado;7.1
+Maria Oliveira;Engenharia de Software;5.3;1.5;3.4;Reprovado;5.3
+Juliana Moura;Cálculo I;9.0;3.9;6.5;Reprovado;9.0
+Juliana Moura;Física I;10.0;7.1;8.6;Aprovado;10.0
+Juliana Moura;Algoritmos;9.6;8.2;8.9;Aprovado;9.6
+Juliana Moura;Banco de Dados;0.2;9.7;4.9;Reprovado;0.2
+Juliana Moura;Engenharia de Software;9.8;4.9;7.4;Aprovado;9.8
+Pedro Santos;Cálculo I;9.2;0.1;4.6;Reprovado;9.2
+Pedro Santos;Física I;8.8;1.5;5.2;Reprovado;8.8
+Pedro Santos;Algoritmos;1.1;4.6;2.8;Reprovado;1.1
+Pedro Santos;Banco de Dados;9.5;8.4;8.9;Aprovado;9.5
+Pedro Santos;Engenharia de Software;9.1;6.4;7.8;Aprovado;9.1
+Carlos Eduardo;Cálculo I;0.5;6.9;3.7;Reprovado;0.5
+Carlos Eduardo;Física I;2.9;8.4;5.7;Reprovado;2.9
+Carlos Eduardo;Algoritmos;9.8;4.8;7.3;Aprovado;9.8
+Carlos Eduardo;Banco de Dados;5.5;9.9;7.7;Aprovado;5.5
+Carlos Eduardo;Engenharia de Software;3.3;0.6;1.9;Reprovado;3.3
+Pedro Santos;Cálculo I;7.4;7.4;7.4;Aprovado;7.4
+Pedro Santos;Física I;1.4;4.5;3.0;Reprovado;1.4
+Pedro Santos;Algoritmos;3.0;1.5;2.2;Reprovado;3.0
+Pedro Santos;Banco de Dados;4.6;7.4;6.0;Reprovado;4.6
+Pedro Santos;Engenharia de Software;7.3;7.0;7.2;Aprovado;7.3
+Maria Oliveira;Cálculo I;6.1;7.7;6.9;Reprovado;6.1
+Maria Oliveira;Física I;2.8;7.3;5.0;Reprovado;2.8
+Maria Oliveira;Algoritmos;0.6;9.7;5.1;Reprovado;0.6
+Maria Oliveira;Banco de Dados;6.6;0.5;3.5;Reprovado;6.6
+Maria Oliveira;Engenharia de Software;1.5;9.5;5.5;Reprovado;1.5
+Camila Costa;Cálculo I;0.5;1.7;1.1;Reprovado;0.5
+Camila Costa;Física I;10.0;4.4;7.2;Aprovado;10.0
+Camila Costa;Algoritmos;2.6;6.0;4.3;Reprovado;2.6
+Camila Costa;Banco de Dados;1.1;9.5;5.3;Reprovado;1.1
+Camila Costa;Engenharia de Software;8.9;6.6;7.8;Aprovado;8.9
+Juliana Moura;Cálculo I;7.3;1.7;4.5;Reprovado;7.3
+Juliana Moura;Física I;2.4;7.3;4.8;Reprovado;2.4
+Juliana Moura;Algoritmos;9.7;2.1;5.9;Reprovado;9.7
+Juliana Moura;Banco de Dados;7.2;5.7;6.5;Reprovado;7.2
+Juliana Moura;Engenharia de Software;6.6;5.9;6.2;Reprovado;6.6
+Fernanda Lima;Cálculo I;8.7;5.4;7.0;Aprovado;8.7
+Fernanda Lima;Física I;10.0;7.1;8.6;Aprovado;10.0
+Fernanda Lima;Algoritmos;7.8;4.2;6.0;Reprovado;7.8
+Fernanda Lima;Banco de Dados;0.1;3.0;1.6;Reprovado;0.1
+Fernanda Lima;Engenharia de Software;1.4;9.8;5.6;Reprovado;1.4
+Juliana Moura;Cálculo I;7.9;5.3;6.6;Reprovado;7.9
+Juliana Moura;Física I;9.2;7.0;8.1;Aprovado;9.2
+Juliana Moura;Algoritmos;5.8;3.8;4.8;Reprovado;5.8
+Juliana Moura;Banco de Dados;9.3;3.5;6.4;Reprovado;9.3
+Juliana Moura;Engenharia de Software;8.9;4.0;6.5;Reprovado;8.9
+Rafael Pereira;Cálculo I;3.3;6.1;4.7;Reprovado;3.3
+Rafael Pereira;Física I;8.2;8.8;8.5;Aprovado;8.2
+Rafael Pereira;Algoritmos;7.0;9.8;8.4;Aprovado;7.0
+Rafael Pereira;Banco de Dados;2.2;2.1;2.2;Reprovado;2.2
+Rafael Pereira;Engenharia de Software;6.0;4.7;5.3;Reprovado;6.0
+Ana Paula;Cálculo I;2.8;0.1;1.4;Reprovado;2.8
+Ana Paula;Física I;7.8;0.8;4.3;Reprovado;7.8
+Ana Paula;Algoritmos;0.1;9.6;4.8;Reprovado;0.1
+Ana Paula;Banco de Dados;9.1;0.7;4.9;Reprovado;9.1
+Ana Paula;Engenharia de Software;5.0;9.4;7.2;Aprovado;5.0
+Rafael Pereira;Cálculo I;0.0;4.0;2.0;Reprovado;0.0
+Rafael Pereira;Física I;4.5;8.4;6.5;Reprovado;4.5
+Rafael Pereira;Algoritmos;5.1;2.2;3.6;Reprovado;5.1
+Rafael Pereira;Banco de Dados;6.6;5.9;6.2;Reprovado;6.6
+Rafael Pereira;Engenharia de Software;2.5;7.4;5.0;Reprovado;2.5
+Rafael Pereira;Cálculo I;7.6;7.9;7.8;Aprovado;7.6
+Rafael Pereira;Física I;2.5;3.4;3.0;Reprovado;2.5
+Rafael Pereira;Algoritmos;2.0;0.2;1.1;Reprovado;2.0
+Rafael Pereira;Banco de Dados;7.3;9.0;8.2;Aprovado;7.3
+Rafael Pereira;Engenharia de Software;6.9;4.8;5.8;Reprovado;6.9
+Pedro Santos;Cálculo I;0.2;2.5;1.4;Reprovado;0.2
+Pedro Santos;Física I;7.5;7.0;7.2;Aprovado;7.5
+Pedro Santos;Algoritmos;7.1;2.9;5.0;Reprovado;7.1
+Pedro Santos;Banco de Dados;0.5;7.8;4.2;Reprovado;0.5
+Pedro Santos;Engenharia de Software;7.1;6.2;6.7;Reprovado;7.1
+João da Silva;Cálculo I;0.6;8.9;4.8;Reprovado;0.6
+João da Silva;Física I;6.2;1.2;3.7;Reprovado;6.2
+João da Silva;Algoritmos;8.2;7.7;7.9;Aprovado;8.2
+João da Silva;Banco de Dados;4.4;2.3;3.4;Reprovado;4.4
+João da Silva;Engenharia de Software;8.7;6.8;7.8;Aprovado;8.7
+Carlos Eduardo;Cálculo I;4.7;3.7;4.2;Reprovado;4.7
+Carlos Eduardo;Física I;0.5;4.0;2.2;Reprovado;0.5
+Carlos Eduardo;Algoritmos;6.5;3.7;5.1;Reprovado;6.5
+Carlos Eduardo;Banco de Dados;7.6;2.1;4.8;Reprovado;7.6
+Carlos Eduardo;Engenharia de Software;4.3;5.0;4.7;Reprovado;4.3
+Maria Oliveira;Cálculo I;4.2;4.4;4.3;Reprovado;4.2
+Maria Oliveira;Física I;1.6;4.0;2.8;Reprovado;1.6
+Maria Oliveira;Algoritmos;1.0;2.8;1.9;Reprovado;1.0
+Maria Oliveira;Banco de Dados;6.8;1.5;4.2;Reprovado;6.8
+Maria Oliveira;Engenharia de Software;5.0;4.0;4.5;Reprovado;5.0
+Maria Oliveira;Cálculo I;9.5;7.9;8.7;Aprovado;9.5
+Maria Oliveira;Física I;7.5;7.3;7.4;Aprovado;7.5
+Maria Oliveira;Algoritmos;6.2;9.7;7.9;Aprovado;6.2
+Maria Oliveira;Banco de Dados;7.4;4.0;5.7;Reprovado;7.4
+Maria Oliveira;Engenharia de Software;1.3;0.3;0.8;Reprovado;1.3
+Maria Oliveira;Cálculo I;8.4;1.3;4.9;Reprovado;8.4
+Maria Oliveira;Física I;2.9;1.8;2.4;Reprovado;2.9
+Maria Oliveira;Algoritmos;1.9;5.9;3.9;Reprovado;1.9
+Maria Oliveira;Banco de Dados;4.3;3.4;3.8;Reprovado;4.3
+Maria Oliveira;Engenharia de Software;1.2;4.2;2.7;Reprovado;1.2
+Maria Oliveira;Cálculo I;6.5;3.8;5.2;Reprovado;6.5
+Maria Oliveira;Física I;9.6;0.6;5.1;Reprovado;9.6
+Maria Oliveira;Algoritmos;6.8;4.8;5.8;Reprovado;6.8
+Maria Oliveira;Banco de Dados;3.7;4.8;4.2;Reprovado;3.7
+Maria Oliveira;Engenharia de Software;1.2;5.1;3.1;Reprovado;1.2
+Maria Oliveira;Cálculo I;3.4;4.9;4.2;Reprovado;3.4
+Maria Oliveira;Física I;6.5;2.6;4.5;Reprovado;6.5
+Maria Oliveira;Algoritmos;9.4;9.6;9.5;Aprovado;9.4
+Maria Oliveira;Banco de Dados;9.2;7.1;8.1;Aprovado;9.2
+Maria Oliveira;Engenharia de Software;9.0;9.8;9.4;Aprovado;9.0
+Ana Paula;Cálculo I;5.1;5.9;5.5;Reprovado;5.1
+Ana Paula;Física I;8.3;9.4;8.9;Aprovado;8.3
+Ana Paula;Algoritmos;9.2;4.5;6.8;Reprovado;9.2
+Ana Paula;Banco de Dados;8.8;9.7;9.2;Aprovado;8.8
+Ana Paula;Engenharia de Software;6.5;6.9;6.7;Reprovado;6.5
+Ana Paula;Cálculo I;3.6;4.2;3.9;Reprovado;3.6
+Ana Paula;Física I;5.4;6.3;5.8;Reprovado;5.4
+Ana Paula;Algoritmos;1.7;7.6;4.6;Reprovado;1.7
+Ana Paula;Banco de Dados;7.9;3.1;5.5;Reprovado;7.9
+Ana Paula;Engenharia de Software;6.9;5.8;6.3;Reprovado;6.9
+Ana Paula;Cálculo I;7.3;1.6;4.5;Reprovado;7.3
+Ana Paula;Física I;0.4;0.5;0.5;Reprovado;0.4
+Ana Paula;Algoritmos;5.5;1.4;3.5;Reprovado;5.5
+Ana Paula;Banco de Dados;8.4;6.3;7.3;Aprovado;8.4
+Ana Paula;Engenharia de Software;8.4;8.6;8.5;Aprovado;8.4
+Fernanda Lima;Cálculo I;9.2;5.2;7.2;Aprovado;9.2
+Fernanda Lima;Física I;3.6;7.7;5.7;Reprovado;3.6
+Fernanda Lima;Algoritmos;8.6;7.3;7.9;Aprovado;8.6
+Fernanda Lima;Banco de Dados;4.7;3.6;4.2;Reprovado;4.7
+Fernanda Lima;Engenharia de Software;8.2;1.6;4.9;Reprovado;8.2
+Juliana Moura;Cálculo I;1.8;8.9;5.4;Reprovado;1.8
+Juliana Moura;Física I;6.2;2.0;4.1;Reprovado;6.2
+Juliana Moura;Algoritmos;4.2;8.8;6.5;Reprovado;4.2
+Juliana Moura;Banco de Dados;7.4;2.0;4.7;Reprovado;7.4
+Juliana Moura;Engenharia de Software;5.5;8.2;6.8;Reprovado;5.5
+João da Silva;Cálculo I;8.0;4.1;6.0;Reprovado;8.0
+João da Silva;Física I;5.3;1.4;3.3;Reprovado;5.3
+João da Silva;Algoritmos;1.1;7.8;4.5;Reprovado;1.1
+João da Silva;Banco de Dados;9.6;9.2;9.4;Aprovado;9.6
+João da Silva;Engenharia de Software;4.6;7.4;6.0;Reprovado;4.6
+Maria Oliveira;Cálculo I;8.9;5.6;7.2;Aprovado;8.9
+Maria Oliveira;Física I;6.3;8.8;7.6;Aprovado;6.3
+Maria Oliveira;Algoritmos;4.1;5.8;4.9;Reprovado;4.1
+Maria Oliveira;Banco de Dados;1.7;6.0;3.9;Reprovado;1.7
+Maria Oliveira;Engenharia de Software;1.0;8.7;4.8;Reprovado;1.0
+João da Silva;Cálculo I;1.9;10.0;6.0;Reprovado;1.9
+João da Silva;Física I;3.9;7.6;5.8;Reprovado;3.9
+João da Silva;Algoritmos;6.8;9.0;7.9;Aprovado;6.8
+João da Silva;Banco de Dados;0.2;9.9;5.0;Reprovado;0.2
+João da Silva;Engenharia de Software;2.6;6.6;4.6;Reprovado;2.6
+Maria Oliveira;Cálculo I;1.2;3.5;2.4;Reprovado;1.2
+Maria Oliveira;Física I;5.8;7.2;6.5;Reprovado;5.8
+Maria Oliveira;Algoritmos;5.2;4.2;4.7;Reprovado;5.2
+Maria Oliveira;Banco de Dados;3.5;1.6;2.5;Reprovado;3.5
+Maria Oliveira;Engenharia de Software;4.2;8.3;6.2;Reprovado;4.2
+Maria Oliveira;Cálculo I;6.2;0.7;3.5;Reprovado;6.2
+Maria Oliveira;Física I;7.6;3.2;5.4;Reprovado;7.6
+Maria Oliveira;Algoritmos;1.5;1.6;1.6;Reprovado;1.5
+Maria Oliveira;Banco de Dados;9.4;7.6;8.5;Aprovado;9.4
+Maria Oliveira;Engenharia de Software;0.1;8.4;4.2;Reprovado;0.1
+Pedro Santos;Cálculo I;5.9;0.9;3.4;Reprovado;5.9
+Pedro Santos;Física I;4.7;4.0;4.3;Reprovado;4.7
+Pedro Santos;Algoritmos;7.9;3.4;5.7;Reprovado;7.9
+Pedro Santos;Banco de Dados;9.4;4.6;7.0;Aprovado;9.4
+Pedro Santos;Engenharia de Software;6.1;7.6;6.8;Reprovado;6.1
+Luiz Henrique;Cálculo I;1.7;5.2;3.5;Reprovado;1.7
+Luiz Henrique;Física I;3.1;7.0;5.0;Reprovado;3.1
+Luiz Henrique;Algoritmos;7.1;4.1;5.6;Reprovado;7.1
+Luiz Henrique;Banco de Dados;2.1;9.8;6.0;Reprovado;2.1
+Luiz Henrique;Engenharia de Software;5.4;4.9;5.2;Reprovado;5.4
+Ana Paula;Cálculo I;10.0;0.1;5.0;Reprovado;10.0
+Ana Paula;Física I;7.1;7.7;7.4;Aprovado;7.1
+Ana Paula;Algoritmos;3.8;9.4;6.6;Reprovado;3.8
+Ana Paula;Banco de Dados;6.6;6.4;6.5;Reprovado;6.6
+Ana Paula;Engenharia de Software;5.5;4.5;5.0;Reprovado;5.5
+Maria Oliveira;Cálculo I;3.7;8.3;6.0;Reprovado;3.7
+Maria Oliveira;Física I;1.6;4.5;3.0;Reprovado;1.6
+Maria Oliveira;Algoritmos;6.9;9.8;8.4;Aprovado;6.9
+Maria Oliveira;Banco de Dados;8.3;5.4;6.9;Reprovado;8.3
+Maria Oliveira;Engenharia de Software;9.9;6.1;8.0;Aprovado;9.9
+Ana Paula;Cálculo I;8.6;7.5;8.1;Aprovado;8.6
+Ana Paula;Física I;2.0;0.6;1.3;Reprovado;2.0
+Ana Paula;Algoritmos;1.4;0.7;1.0;Reprovado;1.4
+Ana Paula;Banco de Dados;8.2;3.4;5.8;Reprovado;8.2
+Ana Paula;Engenharia de Software;0.8;9.7;5.2;Reprovado;0.8
+Ana Paula;Cálculo I;3.2;4.8;4.0;Reprovado;3.2
+Ana Paula;Física I;8.6;5.1;6.8;Reprovado;8.6
+Ana Paula;Algoritmos;7.2;0.9;4.0;Reprovado;7.2
+Ana Paula;Banco de Dados;4.3;8.0;6.2;Reprovado;4.3
+Ana Paula;Engenharia de Software;1.6;3.3;2.5;Reprovado;1.6
+João da Silva;Cálculo I;6.6;4.2;5.4;Reprovado;6.6
+João da Silva;Física I;9.5;0.1;4.8;Reprovado;9.5
+João da Silva;Algoritmos;9.8;9.6;9.7;Aprovado;9.8
+João da Silva;Banco de Dados;9.8;4.9;7.4;Aprovado;9.8
+João da Silva;Engenharia de Software;9.4;2.3;5.8;Reprovado;9.4
+Fernanda Lima;Cálculo I;6.0;0.9;3.5;Reprovado;6.0
+Fernanda Lima;Física I;7.0;1.8;4.4;Reprovado;7.0
+Fernanda Lima;Algoritmos;6.7;7.5;7.1;Aprovado;6.7
+Fernanda Lima;Banco de Dados;5.9;6.0;6.0;Reprovado;5.9
+Fernanda Lima;Engenharia de Software;9.7;9.2;9.4;Aprovado;9.7
+Camila Costa;Cálculo I;2.8;1.7;2.2;Reprovado;2.8
+Camila Costa;Física I;3.8;7.4;5.6;Reprovado;3.8
+Camila Costa;Algoritmos;2.6;9.0;5.8;Reprovado;2.6
+Camila Costa;Banco de Dados;2.8;9.4;6.1;Reprovado;2.8
+Camila Costa;Engenharia de Software;6.7;0.3;3.5;Reprovado;6.7
+João da Silva;Cálculo I;8.6;7.0;7.8;Aprovado;8.6
+João da Silva;Física I;8.8;2.6;5.7;Reprovado;8.8
+João da Silva;Algoritmos;2.2;9.3;5.8;Reprovado;2.2
+João da Silva;Banco de Dados;0.6;3.5;2.0;Reprovado;0.6
+João da Silva;Engenharia de Software;0.4;4.4;2.4;Reprovado;0.4
+Pedro Santos;Cálculo I;8.6;8.0;8.3;Aprovado;8.6
+Pedro Santos;Física I;4.6;4.1;4.3;Reprovado;4.6
+Pedro Santos;Algoritmos;8.8;0.5;4.7;Reprovado;8.8
+Pedro Santos;Banco de Dados;6.0;9.6;7.8;Aprovado;6.0
+Pedro Santos;Engenharia de Software;4.2;2.1;3.2;Reprovado;4.2
+Camila Costa;Cálculo I;3.7;5.4;4.6;Reprovado;3.7
+Camila Costa;Física I;9.1;5.1;7.1;Aprovado;9.1
+Camila Costa;Algoritmos;1.1;1.9;1.5;Reprovado;1.1
+Camila Costa;Banco de Dados;3.3;3.2;3.2;Reprovado;3.3
+Camila Costa;Engenharia de Software;9.4;2.1;5.8;Reprovado;9.4
+Ana Paula;Cálculo I;8.4;7.9;8.2;Aprovado;8.4
+Ana Paula;Física I;5.8;5.0;5.4;Reprovado;5.8
+Ana Paula;Algoritmos;8.2;7.6;7.9;Aprovado;8.2
+Ana Paula;Banco de Dados;1.5;2.2;1.9;Reprovado;1.5
+Ana Paula;Engenharia de Software;0.7;6.6;3.6;Reprovado;0.7
+Carlos Eduardo;Cálculo I;4.0;4.1;4.0;Reprovado;4.0
+Carlos Eduardo;Física I;1.4;1.3;1.4;Reprovado;1.4
+Carlos Eduardo;Algoritmos;7.9;3.6;5.8;Reprovado;7.9
+Carlos Eduardo;Banco de Dados;5.3;6.7;6.0;Reprovado;5.3
+Carlos Eduardo;Engenharia de Software;6.4;1.4;3.9;Reprovado;6.4
+Carlos Eduardo;Cálculo I;4.8;9.6;7.2;Aprovado;4.8
+Carlos Eduardo;Física I;1.1;6.4;3.8;Reprovado;1.1
+Carlos Eduardo;Algoritmos;1.8;8.8;5.3;Reprovado;1.8
+Carlos Eduardo;Banco de Dados;7.7;6.5;7.1;Aprovado;7.7
+Carlos Eduardo;Engenharia de Software;3.1;1.7;2.4;Reprovado;3.1
+Pedro Santos;Cálculo I;6.5;0.7;3.6;Reprovado;6.5
+Pedro Santos;Física I;6.6;4.4;5.5;Reprovado;6.6
+Pedro Santos;Algoritmos;8.2;9.7;8.9;Aprovado;8.2
+Pedro Santos;Banco de Dados;7.3;3.1;5.2;Reprovado;7.3
+Pedro Santos;Engenharia de Software;9.9;0.1;5.0;Reprovado;9.9
+Maria Oliveira;Cálculo I;2.6;3.6;3.1;Reprovado;2.6
+Maria Oliveira;Física I;0.1;5.5;2.8;Reprovado;0.1
+Maria Oliveira;Algoritmos;6.1;2.4;4.2;Reprovado;6.1
+Maria Oliveira;Banco de Dados;8.6;3.4;6.0;Reprovado;8.6
+Maria Oliveira;Engenharia de Software;2.8;0.5;1.6;Reprovado;2.8
+Juliana Moura;Cálculo I;3.2;7.1;5.2;Reprovado;3.2
+Juliana Moura;Física I;7.4;6.2;6.8;Reprovado;7.4
+Juliana Moura;Algoritmos;1.4;5.7;3.5;Reprovado;1.4
+Juliana Moura;Banco de Dados;3.2;9.5;6.3;Reprovado;3.2
+Juliana Moura;Engenharia de Software;2.8;8.3;5.6;Reprovado;2.8
+Luiz Henrique;Cálculo I;8.6;6.9;7.8;Aprovado;8.6
+Luiz Henrique;Física I;6.1;1.8;3.9;Reprovado;6.1
+Luiz Henrique;Algoritmos;4.5;7.1;5.8;Reprovado;4.5
+Luiz Henrique;Banco de Dados;2.4;8.0;5.2;Reprovado;2.4
+Luiz Henrique;Engenharia de Software;4.8;0.7;2.8;Reprovado;4.8
+Camila Costa;Cálculo I;3.5;5.2;4.3;Reprovado;3.5
+Camila Costa;Física I;9.1;7.9;8.5;Aprovado;9.1
+Camila Costa;Algoritmos;2.8;2.7;2.8;Reprovado;2.8
+Camila Costa;Banco de Dados;1.2;9.7;5.4;Reprovado;1.2
+Camila Costa;Engenharia de Software;4.7;4.3;4.5;Reprovado;4.7
+Rafael Pereira;Cálculo I;6.4;3.2;4.8;Reprovado;6.4
+Rafael Pereira;Física I;5.8;2.0;3.9;Reprovado;5.8
+Rafael Pereira;Algoritmos;4.1;4.9;4.5;Reprovado;4.1
+Rafael Pereira;Banco de Dados;10.0;1.7;5.8;Reprovado;10.0
+Rafael Pereira;Engenharia de Software;0.8;1.9;1.4;Reprovado;0.8
+Luiz Henrique;Cálculo I;3.6;9.2;6.4;Reprovado;3.6
+Luiz Henrique;Física I;5.3;6.7;6.0;Reprovado;5.3
+Luiz Henrique;Algoritmos;0.9;9.5;5.2;Reprovado;0.9
+Luiz Henrique;Banco de Dados;3.8;2.1;3.0;Reprovado;3.8
+Luiz Henrique;Engenharia de Software;2.2;6.7;4.5;Reprovado;2.2
+Carlos Eduardo;Cálculo I;2.0;7.1;4.5;Reprovado;2.0
+Carlos Eduardo;Física I;3.9;7.8;5.8;Reprovado;3.9
+Carlos Eduardo;Algoritmos;1.7;5.6;3.6;Reprovado;1.7
+Carlos Eduardo;Banco de Dados;8.9;6.7;7.8;Aprovado;8.9
+Carlos Eduardo;Engenharia de Software;1.1;1.3;1.2;Reprovado;1.1
+Rafael Pereira;Cálculo I;0.5;2.6;1.6;Reprovado;0.5
+Rafael Pereira;Física I;7.8;9.5;8.7;Aprovado;7.8
+Rafael Pereira;Algoritmos;4.5;4.5;4.5;Reprovado;4.5
+Rafael Pereira;Banco de Dados;9.5;9.8;9.7;Aprovado;9.5
+Rafael Pereira;Engenharia de Software;9.4;0.7;5.0;Reprovado;9.4
+Maria Oliveira;Cálculo I;6.7;0.8;3.8;Reprovado;6.7
+Maria Oliveira;Física I;8.8;9.6;9.2;Aprovado;8.8
+Maria Oliveira;Algoritmos;5.4;2.8;4.1;Reprovado;5.4
+Maria Oliveira;Banco de Dados;5.6;0.4;3.0;Reprovado;5.6
+Maria Oliveira;Engenharia de Software;0.2;1.9;1.1;Reprovado;0.2
+Carlos Eduardo;Cálculo I;7.1;9.1;8.1;Aprovado;7.1
+Carlos Eduardo;Física I;0.7;4.8;2.8;Reprovado;0.7
+Carlos Eduardo;Algoritmos;2.7;2.4;2.5;Reprovado;2.7
+Carlos Eduardo;Banco de Dados;1.5;3.4;2.5;Reprovado;1.5
+Carlos Eduardo;Engenharia de Software;5.7;4.0;4.8;Reprovado;5.7
+João da Silva;Cálculo I;6.2;1.7;4.0;Reprovado;6.2
+João da Silva;Física I;3.4;0.7;2.0;Reprovado;3.4
+João da Silva;Algoritmos;2.1;7.9;5.0;Reprovado;2.1
+João da Silva;Banco de Dados;4.1;0.3;2.2;Reprovado;4.1
+João da Silva;Engenharia de Software;0.9;9.1;5.0;Reprovado;0.9
+Ana Paula;Cálculo I;8.8;2.1;5.5;Reprovado;8.8
+Ana Paula;Física I;0.3;7.1;3.7;Reprovado;0.3
+Ana Paula;Algoritmos;4.7;3.1;3.9;Reprovado;4.7
+Ana Paula;Banco de Dados;1.8;0.3;1.1;Reprovado;1.8
+Ana Paula;Engenharia de Software;6.6;3.3;4.9;Reprovado;6.6
+Ana Paula;Cálculo I;5.8;4.5;5.2;Reprovado;5.8
+Ana Paula;Física I;5.3;0.3;2.8;Reprovado;5.3
+Ana Paula;Algoritmos;1.9;8.9;5.4;Reprovado;1.9
+Ana Paula;Banco de Dados;7.4;0.8;4.1;Reprovado;7.4
+Ana Paula;Engenharia de Software;8.2;9.2;8.7;Aprovado;8.2
+Luiz Henrique;Cálculo I;5.3;2.4;3.8;Reprovado;5.3
+Luiz Henrique;Física I;8.5;6.5;7.5;Aprovado;8.5
+Luiz Henrique;Algoritmos;4.1;8.0;6.0;Reprovado;4.1
+Luiz Henrique;Banco de Dados;7.7;3.3;5.5;Reprovado;7.7
+Luiz Henrique;Engenharia de Software;6.5;1.5;4.0;Reprovado;6.5
+Pedro Santos;Cálculo I;5.3;5.7;5.5;Reprovado;5.3
+Pedro Santos;Física I;9.5;9.5;9.5;Aprovado;9.5
+Pedro Santos;Algoritmos;2.1;8.6;5.3;Reprovado;2.1
+Pedro Santos;Banco de Dados;7.7;5.9;6.8;Reprovado;7.7
+Pedro Santos;Engenharia de Software;3.2;0.1;1.7;Reprovado;3.2
+Camila Costa;Cálculo I;0.3;0.7;0.5;Reprovado;0.3
+Camila Costa;Física I;8.2;7.2;7.7;Aprovado;8.2
+Camila Costa;Algoritmos;1.8;2.4;2.1;Reprovado;1.8
+Camila Costa;Banco de Dados;1.4;7.3;4.3;Reprovado;1.4
+Camila Costa;Engenharia de Software;8.6;2.1;5.3;Reprovado;8.6
+Maria Oliveira;Cálculo I;7.3;3.5;5.4;Reprovado;7.3
+Maria Oliveira;Física I;6.8;5.4;6.1;Reprovado;6.8
+Maria Oliveira;Algoritmos;5.8;5.4;5.6;Reprovado;5.8
+Maria Oliveira;Banco de Dados;6.4;5.7;6.1;Reprovado;6.4
+Maria Oliveira;Engenharia de Software;9.0;1.5;5.2;Reprovado;9.0
+Ana Paula;Cálculo I;0.9;8.5;4.7;Reprovado;0.9
+Ana Paula;Física I;6.9;5.4;6.2;Reprovado;6.9
+Ana Paula;Algoritmos;7.2;5.6;6.4;Reprovado;7.2
+Ana Paula;Banco de Dados;3.3;5.3;4.3;Reprovado;3.3
+Ana Paula;Engenharia de Software;9.1;3.3;6.2;Reprovado;9.1
+Maria Oliveira;Cálculo I;1.1;9.8;5.5;Reprovado;1.1
+Maria Oliveira;Física I;7.3;9.0;8.2;Aprovado;7.3
+Maria Oliveira;Algoritmos;1.8;7.2;4.5;Reprovado;1.8
+Maria Oliveira;Banco de Dados;7.6;3.2;5.4;Reprovado;7.6
+Maria Oliveira;Engenharia de Software;4.3;2.9;3.6;Reprovado;4.3
+Maria Oliveira;Cálculo I;6.0;9.7;7.8;Aprovado;6.0
+Maria Oliveira;Física I;3.0;9.0;6.0;Reprovado;3.0
+Maria Oliveira;Algoritmos;4.4;4.7;4.6;Reprovado;4.4
+Maria Oliveira;Banco de Dados;3.7;6.2;5.0;Reprovado;3.7
+Maria Oliveira;Engenharia de Software;6.9;3.7;5.3;Reprovado;6.9
+Camila Costa;Cálculo I;5.8;8.6;7.2;Aprovado;5.8
+Camila Costa;Física I;3.1;8.6;5.8;Reprovado;3.1
+Camila Costa;Algoritmos;9.1;7.1;8.1;Aprovado;9.1
+Camila Costa;Banco de Dados;6.3;5.9;6.1;Reprovado;6.3
+Camila Costa;Engenharia de Software;0.4;6.8;3.6;Reprovado;0.4
+Juliana Moura;Cálculo I;1.9;1.1;1.5;Reprovado;1.9
+Juliana Moura;Física I;2.1;9.7;5.9;Reprovado;2.1
+Juliana Moura;Algoritmos;9.3;1.5;5.4;Reprovado;9.3
+Juliana Moura;Banco de Dados;9.9;0.4;5.2;Reprovado;9.9
+Juliana Moura;Engenharia de Software;9.2;7.4;8.3;Aprovado;9.2
+Ana Paula;Cálculo I;3.4;5.9;4.7;Reprovado;3.4
+Ana Paula;Física I;3.2;7.8;5.5;Reprovado;3.2
+Ana Paula;Algoritmos;9.5;4.9;7.2;Aprovado;9.5
+Ana Paula;Banco de Dados;5.1;9.2;7.1;Aprovado;5.1
+Ana Paula;Engenharia de Software;4.8;8.8;6.8;Reprovado;4.8
+Ana Paula;Cálculo I;0.1;5.2;2.6;Reprovado;0.1
+Ana Paula;Física I;1.5;4.7;3.1;Reprovado;1.5
+Ana Paula;Algoritmos;1.9;0.1;1.0;Reprovado;1.9
+Ana Paula;Banco de Dados;2.6;9.9;6.2;Reprovado;2.6
+Ana Paula;Engenharia de Software;3.2;7.5;5.3;Reprovado;3.2
+Pedro Santos;Cálculo I;4.2;8.7;6.4;Reprovado;4.2
+Pedro Santos;Física I;3.5;8.8;6.2;Reprovado;3.5
+Pedro Santos;Algoritmos;6.7;2.3;4.5;Reprovado;6.7
+Pedro Santos;Banco de Dados;6.3;1.1;3.7;Reprovado;6.3
+Pedro Santos;Engenharia de Software;1.3;2.9;2.1;Reprovado;1.3
+Pedro Santos;Cálculo I;5.7;4.8;5.2;Reprovado;5.7
+Pedro Santos;Física I;5.4;5.9;5.7;Reprovado;5.4
+Pedro Santos;Algoritmos;3.7;3.8;3.8;Reprovado;3.7
+Pedro Santos;Banco de Dados;2.6;7.4;5.0;Reprovado;2.6
+Pedro Santos;Engenharia de Software;2.0;1.1;1.6;Reprovado;2.0
+Juliana Moura;Cálculo I;1.8;2.9;2.4;Reprovado;1.8
+Juliana Moura;Física I;4.0;8.5;6.2;Reprovado;4.0
+Juliana Moura;Algoritmos;1.4;0.9;1.1;Reprovado;1.4
+Juliana Moura;Banco de Dados;1.2;4.7;3.0;Reprovado;1.2
+Juliana Moura;Engenharia de Software;4.7;5.3;5.0;Reprovado;4.7
+Carlos Eduardo;Cálculo I;9.5;6.1;7.8;Aprovado;9.5
+Carlos Eduardo;Física I;1.5;1.1;1.3;Reprovado;1.5
+Carlos Eduardo;Algoritmos;9.2;9.0;9.1;Aprovado;9.2
+Carlos Eduardo;Banco de Dados;8.6;9.9;9.2;Aprovado;8.6
+Carlos Eduardo;Engenharia de Software;8.0;7.1;7.5;Aprovado;8.0
+Rafael Pereira;Cálculo I;2.3;0.8;1.5;Reprovado;2.3
+Rafael Pereira;Física I;0.2;5.1;2.6;Reprovado;0.2
+Rafael Pereira;Algoritmos;4.2;9.1;6.7;Reprovado;4.2
+Rafael Pereira;Banco de Dados;1.4;3.0;2.2;Reprovado;1.4
+Rafael Pereira;Engenharia de Software;6.3;3.8;5.0;Reprovado;6.3
+Camila Costa;Cálculo I;3.4;3.5;3.5;Reprovado;3.4
+Camila Costa;Física I;9.4;3.9;6.7;Reprovado;9.4
+Camila Costa;Algoritmos;4.5;4.2;4.3;Reprovado;4.5
+Camila Costa;Banco de Dados;6.0;9.1;7.5;Aprovado;6.0
+Camila Costa;Engenharia de Software;2.5;8.1;5.3;Reprovado;2.5
+Pedro Santos;Cálculo I;6.5;5.0;5.8;Reprovado;6.5
+Pedro Santos;Física I;7.2;6.6;6.9;Reprovado;7.2
+Pedro Santos;Algoritmos;1.9;3.4;2.6;Reprovado;1.9
+Pedro Santos;Banco de Dados;9.5;7.4;8.4;Aprovado;9.5
+Pedro Santos;Engenharia de Software;8.9;4.6;6.8;Reprovado;8.9
+Juliana Moura;Cálculo I;2.0;1.4;1.7;Reprovado;2.0
+Juliana Moura;Física I;6.8;8.5;7.7;Aprovado;6.8
+Juliana Moura;Algoritmos;7.4;4.7;6.1;Reprovado;7.4
+Juliana Moura;Banco de Dados;6.9;8.2;7.5;Aprovado;6.9
+Juliana Moura;Engenharia de Software;8.6;0.9;4.8;Reprovado;8.6
+Camila Costa;Cálculo I;6.6;4.2;5.4;Reprovado;6.6
+Camila Costa;Física I;5.6;0.3;2.9;Reprovado;5.6
+Camila Costa;Algoritmos;2.7;1.4;2.0;Reprovado;2.7
+Camila Costa;Banco de Dados;1.0;2.4;1.7;Reprovado;1.0
+Camila Costa;Engenharia de Software;1.9;5.3;3.6;Reprovado;1.9
+Camila Costa;Cálculo I;9.2;6.6;7.9;Aprovado;9.2
+Camila Costa;Física I;3.2;0.4;1.8;Reprovado;3.2
+Camila Costa;Algoritmos;0.4;9.2;4.8;Reprovado;0.4
+Camila Costa;Banco de Dados;6.7;2.6;4.7;Reprovado;6.7
+Camila Costa;Engenharia de Software;2.2;6.0;4.1;Reprovado;2.2
+Camila Costa;Cálculo I;10.0;8.2;9.1;Aprovado;10.0
+Camila Costa;Física I;2.0;4.3;3.1;Reprovado;2.0
+Camila Costa;Algoritmos;4.3;1.7;3.0;Reprovado;4.3
+Camila Costa;Banco de Dados;1.1;3.1;2.1;Reprovado;1.1
+Camila Costa;Engenharia de Software;1.1;6.1;3.6;Reprovado;1.1
+Juliana Moura;Cálculo I;3.2;8.8;6.0;Reprovado;3.2
+Juliana Moura;Física I;9.5;3.1;6.3;Reprovado;9.5
+Juliana Moura;Algoritmos;3.4;4.6;4.0;Reprovado;3.4
+Juliana Moura;Banco de Dados;2.4;8.6;5.5;Reprovado;2.4
+Juliana Moura;Engenharia de Software;3.8;3.0;3.4;Reprovado;3.8
+Fernanda Lima;Cálculo I;6.6;5.1;5.8;Reprovado;6.6
+Fernanda Lima;Física I;7.2;1.5;4.3;Reprovado;7.2
+Fernanda Lima;Algoritmos;8.6;5.9;7.2;Aprovado;8.6
+Fernanda Lima;Banco de Dados;5.7;4.6;5.2;Reprovado;5.7
+Fernanda Lima;Engenharia de Software;3.6;5.1;4.3;Reprovado;3.6
+Camila Costa;Cálculo I;8.2;8.3;8.2;Aprovado;8.2
+Camila Costa;Física I;7.7;6.1;6.9;Reprovado;7.7
+Camila Costa;Algoritmos;2.8;5.0;3.9;Reprovado;2.8
+Camila Costa;Banco de Dados;0.6;1.8;1.2;Reprovado;0.6
+Camila Costa;Engenharia de Software;0.1;1.6;0.9;Reprovado;0.1
+Juliana Moura;Cálculo I;5.5;6.4;6.0;Reprovado;5.5
+Juliana Moura;Física I;0.7;2.9;1.8;Reprovado;0.7
+Juliana Moura;Algoritmos;7.0;7.8;7.4;Aprovado;7.0
+Juliana Moura;Banco de Dados;3.4;0.8;2.1;Reprovado;3.4
+Juliana Moura;Engenharia de Software;2.3;6.5;4.4;Reprovado;2.3
+Ana Paula;Cálculo I;1.2;4.8;3.0;Reprovado;1.2
+Ana Paula;Física I;1.2;6.0;3.6;Reprovado;1.2
+Ana Paula;Algoritmos;2.7;9.2;5.9;Reprovado;2.7
+Ana Paula;Banco de Dados;3.4;0.9;2.1;Reprovado;3.4
+Ana Paula;Engenharia de Software;7.2;1.2;4.2;Reprovado;7.2
+Rafael Pereira;Cálculo I;3.5;2.0;2.8;Reprovado;3.5
+Rafael Pereira;Física I;7.8;1.1;4.5;Reprovado;7.8
+Rafael Pereira;Algoritmos;9.7;5.9;7.8;Aprovado;9.7
+Rafael Pereira;Banco de Dados;10.0;4.9;7.5;Aprovado;10.0
+Rafael Pereira;Engenharia de Software;8.7;4.3;6.5;Reprovado;8.7
+Ana Paula;Cálculo I;5.3;6.9;6.1;Reprovado;5.3
+Ana Paula;Física I;7.5;6.1;6.8;Reprovado;7.5
+Ana Paula;Algoritmos;4.2;4.0;4.1;Reprovado;4.2
+Ana Paula;Banco de Dados;5.2;3.2;4.2;Reprovado;5.2
+Ana Paula;Engenharia de Software;7.8;2.3;5.0;Reprovado;7.8
+Ana Paula;Cálculo I;3.2;1.9;2.5;Reprovado;3.2
+Ana Paula;Física I;4.0;7.8;5.9;Reprovado;4.0
+Ana Paula;Algoritmos;8.5;5.0;6.8;Reprovado;8.5
+Ana Paula;Banco de Dados;5.9;0.4;3.2;Reprovado;5.9
+Ana Paula;Engenharia de Software;4.1;6.5;5.3;Reprovado;4.1
+Luiz Henrique;Cálculo I;3.2;3.7;3.5;Reprovado;3.2
+Luiz Henrique;Física I;1.1;9.2;5.1;Reprovado;1.1
+Luiz Henrique;Algoritmos;7.5;7.4;7.5;Aprovado;7.5
+Luiz Henrique;Banco de Dados;8.3;1.7;5.0;Reprovado;8.3
+Luiz Henrique;Engenharia de Software;4.3;6.0;5.2;Reprovado;4.3
+Luiz Henrique;Cálculo I;9.4;5.7;7.6;Aprovado;9.4
+Luiz Henrique;Física I;0.3;9.8;5.1;Reprovado;0.3
+Luiz Henrique;Algoritmos;6.3;7.5;6.9;Reprovado;6.3
+Luiz Henrique;Banco de Dados;6.4;3.7;5.1;Reprovado;6.4
+Luiz Henrique;Engenharia de Software;1.6;8.3;5.0;Reprovado;1.6
+João da Silva;Cálculo I;1.7;2.1;1.9;Reprovado;1.7
+João da Silva;Física I;3.9;8.4;6.2;Reprovado;3.9
+João da Silva;Algoritmos;8.3;6.7;7.5;Aprovado;8.3
+João da Silva;Banco de Dados;0.8;6.0;3.4;Reprovado;0.8
+João da Silva;Engenharia de Software;1.5;3.3;2.4;Reprovado;1.5
+Ana Paula;Cálculo I;3.7;3.6;3.7;Reprovado;3.7
+Ana Paula;Física I;1.7;4.5;3.1;Reprovado;1.7
+Ana Paula;Algoritmos;3.9;7.3;5.6;Reprovado;3.9
+Ana Paula;Banco de Dados;7.6;4.0;5.8;Reprovado;7.6
+Ana Paula;Engenharia de Software;8.7;0.6;4.6;Reprovado;8.7
+Fernanda Lima;Cálculo I;9.3;1.7;5.5;Reprovado;9.3
+Fernanda Lima;Física I;1.5;3.2;2.4;Reprovado;1.5
+Fernanda Lima;Algoritmos;0.1;3.7;1.9;Reprovado;0.1
+Fernanda Lima;Banco de Dados;2.8;8.9;5.8;Reprovado;2.8
+Fernanda Lima;Engenharia de Software;1.8;3.7;2.8;Reprovado;1.8
+Fernanda Lima;Cálculo I;8.4;0.8;4.6;Reprovado;8.4
+Fernanda Lima;Física I;1.9;8.8;5.4;Reprovado;1.9
+Fernanda Lima;Algoritmos;0.4;3.2;1.8;Reprovado;0.4
+Fernanda Lima;Banco de Dados;3.4;8.0;5.7;Reprovado;3.4
+Fernanda Lima;Engenharia de Software;2.0;1.3;1.6;Reprovado;2.0
+Pedro Santos;Cálculo I;6.1;2.8;4.4;Reprovado;6.1
+Pedro Santos;Física I;9.0;6.1;7.5;Aprovado;9.0
+Pedro Santos;Algoritmos;2.3;9.8;6.1;Reprovado;2.3
+Pedro Santos;Banco de Dados;4.2;6.7;5.5;Reprovado;4.2
+Pedro Santos;Engenharia de Software;0.2;2.4;1.3;Reprovado;0.2
+Fernanda Lima;Cálculo I;6.8;9.3;8.1;Aprovado;6.8
+Fernanda Lima;Física I;1.1;6.8;4.0;Reprovado;1.1
+Fernanda Lima;Algoritmos;0.2;5.0;2.6;Reprovado;0.2
+Fernanda Lima;Banco de Dados;9.1;8.5;8.8;Aprovado;9.1
+Fernanda Lima;Engenharia de Software;5.7;8.5;7.1;Aprovado;5.7
+Rafael Pereira;Cálculo I;4.1;0.2;2.1;Reprovado;4.1
+Rafael Pereira;Física I;8.2;1.4;4.8;Reprovado;8.2
+Rafael Pereira;Algoritmos;5.5;4.7;5.1;Reprovado;5.5
+Rafael Pereira;Banco de Dados;4.5;5.7;5.1;Reprovado;4.5
+Rafael Pereira;Engenharia de Software;8.7;3.7;6.2;Reprovado;8.7
+João da Silva;Cálculo I;5.2;1.5;3.4;Reprovado;5.2
+João da Silva;Física I;2.1;2.9;2.5;Reprovado;2.1
+João da Silva;Algoritmos;2.9;6.2;4.5;Reprovado;2.9
+João da Silva;Banco de Dados;8.3;5.1;6.7;Reprovado;8.3
+João da Silva;Engenharia de Software;8.5;9.3;8.9;Aprovado;8.5
+Pedro Santos;Cálculo I;4.2;5.3;4.8;Reprovado;4.2
+Pedro Santos;Física I;4.7;5.6;5.2;Reprovado;4.7
+Pedro Santos;Algoritmos;5.8;6.5;6.2;Reprovado;5.8
+Pedro Santos;Banco de Dados;2.5;1.5;2.0;Reprovado;2.5
+Pedro Santos;Engenharia de Software;8.4;7.4;7.9;Aprovado;8.4
+Fernanda Lima;Cálculo I;8.8;3.5;6.2;Reprovado;8.8
+Fernanda Lima;Física I;0.8;1.1;1.0;Reprovado;0.8
+Fernanda Lima;Algoritmos;1.3;7.2;4.2;Reprovado;1.3
+Fernanda Lima;Banco de Dados;4.8;7.2;6.0;Reprovado;4.8
+Fernanda Lima;Engenharia de Software;3.2;1.4;2.3;Reprovado;3.2
+João da Silva;Cálculo I;3.4;1.4;2.4;Reprovado;3.4
+João da Silva;Física I;2.6;3.8;3.2;Reprovado;2.6
+João da Silva;Algoritmos;5.8;6.9;6.3;Reprovado;5.8
+João da Silva;Banco de Dados;2.3;0.7;1.5;Reprovado;2.3
+João da Silva;Engenharia de Software;4.0;7.7;5.8;Reprovado;4.0
+João da Silva;Cálculo I;3.0;5.9;4.5;Reprovado;3.0
+João da Silva;Física I;7.6;6.4;7.0;Aprovado;7.6
+João da Silva;Algoritmos;6.8;4.7;5.8;Reprovado;6.8
+João da Silva;Banco de Dados;1.2;2.3;1.8;Reprovado;1.2
+João da Silva;Engenharia de Software;6.5;9.8;8.2;Aprovado;6.5
+Carlos Eduardo;Cálculo I;5.6;2.5;4.0;Reprovado;5.6
+Carlos Eduardo;Física I;5.2;1.0;3.1;Reprovado;5.2
+Carlos Eduardo;Algoritmos;3.9;8.5;6.2;Reprovado;3.9
+Carlos Eduardo;Banco de Dados;1.0;9.6;5.3;Reprovado;1.0
+Carlos Eduardo;Engenharia de Software;0.5;5.8;3.1;Reprovado;0.5
+Rafael Pereira;Cálculo I;6.6;8.1;7.3;Aprovado;6.6
+Rafael Pereira;Física I;2.0;9.9;6.0;Reprovado;2.0
+Rafael Pereira;Algoritmos;7.0;4.9;6.0;Reprovado;7.0
+Rafael Pereira;Banco de Dados;3.0;5.1;4.0;Reprovado;3.0
+Rafael Pereira;Engenharia de Software;2.9;4.7;3.8;Reprovado;2.9
+Rafael Pereira;Cálculo I;9.4;8.5;8.9;Aprovado;9.4
+Rafael Pereira;Física I;8.3;8.8;8.6;Aprovado;8.3
+Rafael Pereira;Algoritmos;3.0;2.0;2.5;Reprovado;3.0
+Rafael Pereira;Banco de Dados;8.7;8.1;8.4;Aprovado;8.7
+Rafael Pereira;Engenharia de Software;7.1;2.2;4.7;Reprovado;7.1
+João da Silva;Cálculo I;5.4;7.5;6.5;Reprovado;5.4
+João da Silva;Física I;8.8;2.0;5.4;Reprovado;8.8
+João da Silva;Algoritmos;4.7;0.7;2.7;Reprovado;4.7
+João da Silva;Banco de Dados;8.0;1.7;4.8;Reprovado;8.0
+João da Silva;Engenharia de Software;4.0;5.6;4.8;Reprovado;4.0
+Camila Costa;Cálculo I;2.8;4.1;3.4;Reprovado;2.8
+Camila Costa;Física I;3.0;1.8;2.4;Reprovado;3.0
+Camila Costa;Algoritmos;7.0;8.3;7.7;Aprovado;7.0
+Camila Costa;Banco de Dados;4.7;3.0;3.9;Reprovado;4.7
+Camila Costa;Engenharia de Software;4.6;7.4;6.0;Reprovado;4.6
+Carlos Eduardo;Cálculo I;6.1;8.7;7.4;Aprovado;6.1
+Carlos Eduardo;Física I;3.9;6.0;5.0;Reprovado;3.9
+Carlos Eduardo;Algoritmos;5.7;3.5;4.6;Reprovado;5.7
+Carlos Eduardo;Banco de Dados;5.1;4.1;4.6;Reprovado;5.1
+Carlos Eduardo;Engenharia de Software;7.1;0.7;3.9;Reprovado;7.1
+Ana Paula;Cálculo I;0.1;5.9;3.0;Reprovado;0.1
+Ana Paula;Física I;5.0;4.8;4.9;Reprovado;5.0
+Ana Paula;Algoritmos;9.5;3.0;6.2;Reprovado;9.5
+Ana Paula;Banco de Dados;8.1;8.3;8.2;Aprovado;8.1
+Ana Paula;Engenharia de Software;4.2;7.7;6.0;Reprovado;4.2
+Camila Costa;Cálculo I;8.2;9.1;8.6;Aprovado;8.2
+Camila Costa;Física I;2.2;1.1;1.7;Reprovado;2.2
+Camila Costa;Algoritmos;6.2;3.0;4.6;Reprovado;6.2
+Camila Costa;Banco de Dados;1.8;8.2;5.0;Reprovado;1.8
+Camila Costa;Engenharia de Software;3.6;3.7;3.7;Reprovado;3.6
+Luiz Henrique;Cálculo I;2.0;4.6;3.3;Reprovado;2.0
+Luiz Henrique;Física I;9.8;3.2;6.5;Reprovado;9.8
+Luiz Henrique;Algoritmos;4.7;5.4;5.1;Reprovado;4.7
+Luiz Henrique;Banco de Dados;4.1;6.0;5.0;Reprovado;4.1
+Luiz Henrique;Engenharia de Software;8.5;7.3;7.9;Aprovado;8.5
+Ana Paula;Cálculo I;3.5;4.4;4.0;Reprovado;3.5
+Ana Paula;Física I;8.5;7.7;8.1;Aprovado;8.5
+Ana Paula;Algoritmos;9.4;3.4;6.4;Reprovado;9.4
+Ana Paula;Banco de Dados;3.5;3.6;3.5;Reprovado;3.5
+Ana Paula;Engenharia de Software;5.3;8.6;6.9;Reprovado;5.3
+João da Silva;Cálculo I;6.9;7.0;7.0;Aprovado;6.9
+João da Silva;Física I;4.4;6.7;5.6;Reprovado;4.4
+João da Silva;Algoritmos;1.7;7.0;4.3;Reprovado;1.7
+João da Silva;Banco de Dados;5.6;1.3;3.4;Reprovado;5.6
+João da Silva;Engenharia de Software;6.3;1.7;4.0;Reprovado;6.3
+Camila Costa;Cálculo I;2.0;9.8;5.9;Reprovado;2.0
+Camila Costa;Física I;8.4;0.4;4.4;Reprovado;8.4
+Camila Costa;Algoritmos;8.2;9.5;8.8;Aprovado;8.2
+Camila Costa;Banco de Dados;3.2;2.2;2.7;Reprovado;3.2
+Camila Costa;Engenharia de Software;2.4;9.3;5.9;Reprovado;2.4
+Juliana Moura;Cálculo I;2.7;7.8;5.2;Reprovado;2.7
+Juliana Moura;Física I;1.5;7.7;4.6;Reprovado;1.5
+Juliana Moura;Algoritmos;0.8;9.9;5.4;Reprovado;0.8
+Juliana Moura;Banco de Dados;1.5;2.3;1.9;Reprovado;1.5
+Juliana Moura;Engenharia de Software;10.0;7.9;8.9;Aprovado;10.0
+Pedro Santos;Cálculo I;8.2;2.2;5.2;Reprovado;8.2
+Pedro Santos;Física I;0.2;5.8;3.0;Reprovado;0.2
+Pedro Santos;Algoritmos;9.8;4.6;7.2;Aprovado;9.8
+Pedro Santos;Banco de Dados;9.8;5.1;7.5;Aprovado;9.8
+Pedro Santos;Engenharia de Software;1.9;9.4;5.7;Reprovado;1.9
+Ana Paula;Cálculo I;6.9;9.1;8.0;Aprovado;6.9
+Ana Paula;Física I;1.9;1.7;1.8;Reprovado;1.9
+Ana Paula;Algoritmos;0.2;0.6;0.4;Reprovado;0.2
+Ana Paula;Banco de Dados;7.6;6.9;7.2;Aprovado;7.6
+Ana Paula;Engenharia de Software;8.0;8.7;8.3;Aprovado;8.0
+Juliana Moura;Cálculo I;2.3;0.5;1.4;Reprovado;2.3
+Juliana Moura;Física I;0.2;1.3;0.8;Reprovado;0.2
+Juliana Moura;Algoritmos;9.8;3.9;6.9;Reprovado;9.8
+Juliana Moura;Banco de Dados;3.4;5.3;4.3;Reprovado;3.4
+Juliana Moura;Engenharia de Software;1.3;3.0;2.1;Reprovado;1.3
+João da Silva;Cálculo I;4.3;5.3;4.8;Reprovado;4.3
+João da Silva;Física I;6.7;9.6;8.2;Aprovado;6.7
+João da Silva;Algoritmos;1.8;1.6;1.7;Reprovado;1.8
+João da Silva;Banco de Dados;9.4;8.7;9.1;Aprovado;9.4
+João da Silva;Engenharia de Software;5.7;1.5;3.6;Reprovado;5.7
+Luiz Henrique;Cálculo I;5.9;1.6;3.8;Reprovado;5.9
+Luiz Henrique;Física I;1.6;9.4;5.5;Reprovado;1.6
+Luiz Henrique;Algoritmos;4.3;6.2;5.2;Reprovado;4.3
+Luiz Henrique;Banco de Dados;1.1;4.7;2.9;Reprovado;1.1
+Luiz Henrique;Engenharia de Software;1.9;0.2;1.1;Reprovado;1.9
+Carlos Eduardo;Cálculo I;4.0;4.6;4.3;Reprovado;4.0
+Carlos Eduardo;Física I;9.4;9.2;9.3;Aprovado;9.4
+Carlos Eduardo;Algoritmos;9.2;0.8;5.0;Reprovado;9.2
+Carlos Eduardo;Banco de Dados;7.0;4.5;5.8;Reprovado;7.0
+Carlos Eduardo;Engenharia de Software;2.3;1.4;1.8;Reprovado;2.3
+Carlos Eduardo;Cálculo I;8.3;8.2;8.2;Aprovado;8.3
+Carlos Eduardo;Física I;9.1;7.3;8.2;Aprovado;9.1
+Carlos Eduardo;Algoritmos;5.3;9.1;7.2;Aprovado;5.3
+Carlos Eduardo;Banco de Dados;4.0;3.6;3.8;Reprovado;4.0
+Carlos Eduardo;Engenharia de Software;6.2;4.7;5.5;Reprovado;6.2
+Carlos Eduardo;Cálculo I;9.7;2.1;5.9;Reprovado;9.7
+Carlos Eduardo;Física I;6.3;1.0;3.6;Reprovado;6.3
+Carlos Eduardo;Algoritmos;1.5;2.9;2.2;Reprovado;1.5
+Carlos Eduardo;Banco de Dados;5.0;5.0;5.0;Reprovado;5.0
+Carlos Eduardo;Engenharia de Software;6.0;7.9;7.0;Aprovado;6.0
+Fernanda Lima;Cálculo I;2.4;6.7;4.5;Reprovado;2.4
+Fernanda Lima;Física I;2.0;5.5;3.8;Reprovado;2.0
+Fernanda Lima;Algoritmos;7.0;2.3;4.7;Reprovado;7.0
+Fernanda Lima;Banco de Dados;4.2;4.0;4.1;Reprovado;4.2
+Fernanda Lima;Engenharia de Software;7.7;5.9;6.8;Reprovado;7.7
+Carlos Eduardo;Cálculo I;0.8;6.9;3.9;Reprovado;0.8
+Carlos Eduardo;Física I;6.5;1.8;4.2;Reprovado;6.5
+Carlos Eduardo;Algoritmos;8.8;9.5;9.2;Aprovado;8.8
+Carlos Eduardo;Banco de Dados;7.0;5.3;6.2;Reprovado;7.0
+Carlos Eduardo;Engenharia de Software;2.1;6.2;4.2;Reprovado;2.1
+Fernanda Lima;Cálculo I;6.5;8.2;7.3;Aprovado;6.5
+Fernanda Lima;Física I;6.4;2.8;4.6;Reprovado;6.4
+Fernanda Lima;Algoritmos;8.7;5.1;6.9;Reprovado;8.7
+Fernanda Lima;Banco de Dados;3.8;0.4;2.1;Reprovado;3.8
+Fernanda Lima;Engenharia de Software;3.0;2.7;2.9;Reprovado;3.0
+João da Silva;Cálculo I;7.1;6.7;6.9;Reprovado;7.1
+João da Silva;Física I;6.9;0.7;3.8;Reprovado;6.9
+João da Silva;Algoritmos;7.2;9.8;8.5;Aprovado;7.2
+João da Silva;Banco de Dados;3.9;4.0;4.0;Reprovado;3.9
+João da Silva;Engenharia de Software;0.1;9.4;4.8;Reprovado;0.1
+Carlos Eduardo;Cálculo I;2.1;0.3;1.2;Reprovado;2.1
+Carlos Eduardo;Física I;7.8;7.3;7.5;Aprovado;7.8
+Carlos Eduardo;Algoritmos;1.0;0.5;0.8;Reprovado;1.0
+Carlos Eduardo;Banco de Dados;3.8;7.4;5.6;Reprovado;3.8
+Carlos Eduardo;Engenharia de Software;8.1;6.1;7.1;Aprovado;8.1
+Camila Costa;Cálculo I;8.5;7.4;8.0;Aprovado;8.5
+Camila Costa;Física I;4.0;0.9;2.5;Reprovado;4.0
+Camila Costa;Algoritmos;0.7;6.1;3.4;Reprovado;0.7
+Camila Costa;Banco de Dados;5.3;1.6;3.5;Reprovado;5.3
+Camila Costa;Engenharia de Software;8.5;1.2;4.8;Reprovado;8.5
+Luiz Henrique;Cálculo I;1.9;5.9;3.9;Reprovado;1.9
+Luiz Henrique;Física I;8.8;8.0;8.4;Aprovado;8.8
+Luiz Henrique;Algoritmos;6.2;2.6;4.4;Reprovado;6.2
+Luiz Henrique;Banco de Dados;8.2;3.1;5.6;Reprovado;8.2
+Luiz Henrique;Engenharia de Software;7.1;7.8;7.4;Aprovado;7.1
+Juliana Moura;Cálculo I;0.4;6.4;3.4;Reprovado;0.4
+Juliana Moura;Física I;5.6;6.9;6.2;Reprovado;5.6
+Juliana Moura;Algoritmos;9.1;8.2;8.6;Aprovado;9.1
+Juliana Moura;Banco de Dados;0.7;8.3;4.5;Reprovado;0.7
+Juliana Moura;Engenharia de Software;9.0;5.4;7.2;Aprovado;9.0
+Camila Costa;Cálculo I;4.4;3.2;3.8;Reprovado;4.4
+Camila Costa;Física I;7.4;9.9;8.7;Aprovado;7.4
+Camila Costa;Algoritmos;6.9;8.8;7.9;Aprovado;6.9
+Camila Costa;Banco de Dados;7.8;6.1;6.9;Reprovado;7.8
+Camila Costa;Engenharia de Software;8.8;8.9;8.9;Aprovado;8.8
+Ana Paula;Cálculo I;1.7;2.6;2.1;Reprovado;1.7
+Ana Paula;Física I;1.5;9.4;5.5;Reprovado;1.5
+Ana Paula;Algoritmos;3.5;2.1;2.8;Reprovado;3.5
+Ana Paula;Banco de Dados;9.5;9.6;9.6;Aprovado;9.5
+Ana Paula;Engenharia de Software;6.9;0.2;3.6;Reprovado;6.9
+Camila Costa;Cálculo I;4.9;9.5;7.2;Aprovado;4.9
+Camila Costa;Física I;0.2;9.6;4.9;Reprovado;0.2
+Camila Costa;Algoritmos;9.7;1.3;5.5;Reprovado;9.7
+Camila Costa;Banco de Dados;4.5;4.4;4.5;Reprovado;4.5
+Camila Costa;Engenharia de Software;6.7;4.8;5.8;Reprovado;6.7
+Rafael Pereira;Cálculo I;0.8;6.8;3.8;Reprovado;0.8
+Rafael Pereira;Física I;6.1;1.3;3.7;Reprovado;6.1
+Rafael Pereira;Algoritmos;4.5;1.2;2.9;Reprovado;4.5
+Rafael Pereira;Banco de Dados;4.3;4.4;4.3;Reprovado;4.3
+Rafael Pereira;Engenharia de Software;3.1;0.4;1.8;Reprovado;3.1
+Fernanda Lima;Cálculo I;7.2;5.3;6.2;Reprovado;7.2
+Fernanda Lima;Física I;5.7;7.8;6.8;Reprovado;5.7
+Fernanda Lima;Algoritmos;9.3;1.8;5.6;Reprovado;9.3
+Fernanda Lima;Banco de Dados;1.4;0.0;0.7;Reprovado;1.4
+Fernanda Lima;Engenharia de Software;8.5;9.4;8.9;Aprovado;8.5
+Ana Paula;Cálculo I;3.7;0.1;1.9;Reprovado;3.7
+Ana Paula;Física I;0.1;4.0;2.0;Reprovado;0.1
+Ana Paula;Algoritmos;5.5;1.7;3.6;Reprovado;5.5
+Ana Paula;Banco de Dados;2.9;3.0;3.0;Reprovado;2.9
+Ana Paula;Engenharia de Software;2.6;5.6;4.1;Reprovado;2.6
+Rafael Pereira;Cálculo I;9.4;1.1;5.2;Reprovado;9.4
+Rafael Pereira;Física I;4.4;9.4;6.9;Reprovado;4.4
+Rafael Pereira;Algoritmos;2.2;9.1;5.7;Reprovado;2.2
+Rafael Pereira;Banco de Dados;8.2;0.3;4.2;Reprovado;8.2
+Rafael Pereira;Engenharia de Software;10.0;0.3;5.2;Reprovado;10.0
+João da Silva;Cálculo I;7.0;0.4;3.7;Reprovado;7.0
+João da Silva;Física I;8.5;4.4;6.5;Reprovado;8.5
+João da Silva;Algoritmos;9.0;7.7;8.3;Aprovado;9.0
+João da Silva;Banco de Dados;4.3;7.4;5.8;Reprovado;4.3
+João da Silva;Engenharia de Software;8.1;0.1;4.1;Reprovado;8.1
+Camila Costa;Cálculo I;1.9;0.3;1.1;Reprovado;1.9
+Camila Costa;Física I;7.2;9.4;8.3;Aprovado;7.2
+Camila Costa;Algoritmos;7.7;1.0;4.3;Reprovado;7.7
+Camila Costa;Banco de Dados;7.4;5.4;6.4;Reprovado;7.4
+Camila Costa;Engenharia de Software;3.5;6.4;5.0;Reprovado;3.5
+Ana Paula;Cálculo I;6.6;4.2;5.4;Reprovado;6.6
+Ana Paula;Física I;1.0;5.7;3.4;Reprovado;1.0
+Ana Paula;Algoritmos;4.1;9.8;7.0;Aprovado;4.1
+Ana Paula;Banco de Dados;1.3;9.3;5.3;Reprovado;1.3
+Ana Paula;Engenharia de Software;5.0;8.5;6.8;Reprovado;5.0
+Maria Oliveira;Cálculo I;6.2;6.5;6.3;Reprovado;6.2
+Maria Oliveira;Física I;0.4;0.7;0.6;Reprovado;0.4
+Maria Oliveira;Algoritmos;7.2;3.6;5.4;Reprovado;7.2
+Maria Oliveira;Banco de Dados;1.2;5.1;3.1;Reprovado;1.2
+Maria Oliveira;Engenharia de Software;3.5;8.0;5.8;Reprovado;3.5
+Ana Paula;Cálculo I;8.3;4.9;6.6;Reprovado;8.3
+Ana Paula;Física I;2.1;0.4;1.2;Reprovado;2.1
+Ana Paula;Algoritmos;9.2;8.2;8.7;Aprovado;9.2
+Ana Paula;Banco de Dados;0.2;9.8;5.0;Reprovado;0.2
+Ana Paula;Engenharia de Software;3.1;6.6;4.8;Reprovado;3.1
+Luiz Henrique;Cálculo I;3.4;2.5;3.0;Reprovado;3.4
+Luiz Henrique;Física I;5.1;2.9;4.0;Reprovado;5.1
+Luiz Henrique;Algoritmos;8.0;6.8;7.4;Aprovado;8.0
+Luiz Henrique;Banco de Dados;9.5;5.2;7.3;Aprovado;9.5
+Luiz Henrique;Engenharia de Software;3.3;9.4;6.3;Reprovado;3.3
+Rafael Pereira;Cálculo I;2.1;6.6;4.3;Reprovado;2.1
+Rafael Pereira;Física I;5.6;2.4;4.0;Reprovado;5.6
+Rafael Pereira;Algoritmos;9.7;3.0;6.3;Reprovado;9.7
+Rafael Pereira;Banco de Dados;4.6;7.4;6.0;Reprovado;4.6
+Rafael Pereira;Engenharia de Software;7.6;5.9;6.8;Reprovado;7.6
+Carlos Eduardo;Cálculo I;6.5;2.9;4.7;Reprovado;6.5
+Carlos Eduardo;Física I;8.0;5.3;6.7;Reprovado;8.0
+Carlos Eduardo;Algoritmos;0.6;7.0;3.8;Reprovado;0.6
+Carlos Eduardo;Banco de Dados;8.9;1.4;5.2;Reprovado;8.9
+Carlos Eduardo;Engenharia de Software;0.3;8.0;4.2;Reprovado;0.3
+Juliana Moura;Cálculo I;3.0;4.7;3.9;Reprovado;3.0
+Juliana Moura;Física I;6.0;7.4;6.7;Reprovado;6.0
+Juliana Moura;Algoritmos;2.4;8.1;5.2;Reprovado;2.4
+Juliana Moura;Banco de Dados;6.4;0.7;3.6;Reprovado;6.4
+Juliana Moura;Engenharia de Software;1.9;3.9;2.9;Reprovado;1.9
+Pedro Santos;Cálculo I;5.4;9.7;7.5;Aprovado;5.4
+Pedro Santos;Física I;5.2;6.1;5.7;Reprovado;5.2
+Pedro Santos;Algoritmos;8.2;3.9;6.0;Reprovado;8.2
+Pedro Santos;Banco de Dados;5.3;6.3;5.8;Reprovado;5.3
+Pedro Santos;Engenharia de Software;4.5;0.6;2.5;Reprovado;4.5
+Juliana Moura;Cálculo I;0.5;7.0;3.8;Reprovado;0.5
+Juliana Moura;Física I;3.7;0.6;2.1;Reprovado;3.7
+Juliana Moura;Algoritmos;1.5;3.0;2.2;Reprovado;1.5
+Juliana Moura;Banco de Dados;0.6;3.0;1.8;Reprovado;0.6
+Juliana Moura;Engenharia de Software;6.2;9.2;7.7;Aprovado;6.2
+Ana Paula;Cálculo I;7.0;5.0;6.0;Reprovado;7.0
+Ana Paula;Física I;9.7;6.2;7.9;Aprovado;9.7
+Ana Paula;Algoritmos;0.5;8.1;4.3;Reprovado;0.5
+Ana Paula;Banco de Dados;8.6;6.7;7.7;Aprovado;8.6
+Ana Paula;Engenharia de Software;4.3;4.5;4.4;Reprovado;4.3
+Camila Costa;Cálculo I;4.8;9.5;7.2;Aprovado;4.8
+Camila Costa;Física I;9.9;3.0;6.5;Reprovado;9.9
+Camila Costa;Algoritmos;6.2;1.9;4.0;Reprovado;6.2
+Camila Costa;Banco de Dados;6.5;9.7;8.1;Aprovado;6.5
+Camila Costa;Engenharia de Software;6.7;4.3;5.5;Reprovado;6.7
+João da Silva;Cálculo I;1.5;5.7;3.6;Reprovado;1.5
+João da Silva;Física I;3.1;6.3;4.7;Reprovado;3.1
+João da Silva;Algoritmos;3.1;9.1;6.1;Reprovado;3.1
+João da Silva;Banco de Dados;8.6;7.8;8.2;Aprovado;8.6
+João da Silva;Engenharia de Software;2.6;3.5;3.0;Reprovado;2.6
+Juliana Moura;Cálculo I;8.1;7.9;8.0;Aprovado;8.1
+Juliana Moura;Física I;4.1;4.5;4.3;Reprovado;4.1
+Juliana Moura;Algoritmos;8.5;5.3;6.9;Reprovado;8.5
+Juliana Moura;Banco de Dados;5.4;2.4;3.9;Reprovado;5.4
+Juliana Moura;Engenharia de Software;8.8;9.2;9.0;Aprovado;8.8
+Pedro Santos;Cálculo I;5.6;3.3;4.4;Reprovado;5.6
+Pedro Santos;Física I;5.7;4.1;4.9;Reprovado;5.7
+Pedro Santos;Algoritmos;9.8;4.1;7.0;Aprovado;9.8
+Pedro Santos;Banco de Dados;7.7;0.1;3.9;Reprovado;7.7
+Pedro Santos;Engenharia de Software;3.8;3.6;3.7;Reprovado;3.8
+Carlos Eduardo;Cálculo I;0.3;4.4;2.4;Reprovado;0.3
+Carlos Eduardo;Física I;4.8;0.2;2.5;Reprovado;4.8
+Carlos Eduardo;Algoritmos;6.2;0.4;3.3;Reprovado;6.2
+Carlos Eduardo;Banco de Dados;4.6;7.5;6.0;Reprovado;4.6
+Carlos Eduardo;Engenharia de Software;2.9;5.1;4.0;Reprovado;2.9
+Luiz Henrique;Cálculo I;0.7;2.8;1.8;Reprovado;0.7
+Luiz Henrique;Física I;1.1;7.8;4.5;Reprovado;1.1
+Luiz Henrique;Algoritmos;4.4;1.2;2.8;Reprovado;4.4
+Luiz Henrique;Banco de Dados;9.5;0.4;5.0;Reprovado;9.5
+Luiz Henrique;Engenharia de Software;9.5;3.8;6.7;Reprovado;9.5
+Rafael Pereira;Cálculo I;5.0;0.0;2.5;Reprovado;5.0
+Rafael Pereira;Física I;2.9;8.9;5.9;Reprovado;2.9
+Rafael Pereira;Algoritmos;9.7;1.1;5.4;Reprovado;9.7
+Rafael Pereira;Banco de Dados;3.8;9.5;6.7;Reprovado;3.8
+Rafael Pereira;Engenharia de Software;7.7;9.9;8.8;Aprovado;7.7
+Camila Costa;Cálculo I;3.4;3.3;3.3;Reprovado;3.4
+Camila Costa;Física I;8.2;9.0;8.6;Aprovado;8.2
+Camila Costa;Algoritmos;0.4;8.2;4.3;Reprovado;0.4
+Camila Costa;Banco de Dados;2.1;1.2;1.6;Reprovado;2.1
+Camila Costa;Engenharia de Software;3.2;1.2;2.2;Reprovado;3.2
+Rafael Pereira;Cálculo I;9.5;7.6;8.6;Aprovado;9.5
+Rafael Pereira;Física I;7.8;9.3;8.6;Aprovado;7.8
+Rafael Pereira;Algoritmos;7.8;7.3;7.5;Aprovado;7.8
+Rafael Pereira;Banco de Dados;0.7;3.1;1.9;Reprovado;0.7
+Rafael Pereira;Engenharia de Software;8.4;6.9;7.7;Aprovado;8.4
+Maria Oliveira;Cálculo I;5.2;5.0;5.1;Reprovado;5.2
+Maria Oliveira;Física I;8.8;4.7;6.8;Reprovado;8.8
+Maria Oliveira;Algoritmos;4.4;1.8;3.1;Reprovado;4.4
+Maria Oliveira;Banco de Dados;7.9;8.6;8.2;Aprovado;7.9
+Maria Oliveira;Engenharia de Software;8.5;1.9;5.2;Reprovado;8.5
+Rafael Pereira;Cálculo I;2.7;9.5;6.1;Reprovado;2.7
+Rafael Pereira;Física I;0.4;4.1;2.2;Reprovado;0.4
+Rafael Pereira;Algoritmos;4.4;3.4;3.9;Reprovado;4.4
+Rafael Pereira;Banco de Dados;6.0;7.4;6.7;Reprovado;6.0
+Rafael Pereira;Engenharia de Software;7.9;8.1;8.0;Aprovado;7.9
+Ana Paula;Cálculo I;3.6;8.0;5.8;Reprovado;3.6
+Ana Paula;Física I;0.7;3.5;2.1;Reprovado;0.7
+Ana Paula;Algoritmos;6.1;8.3;7.2;Aprovado;6.1
+Ana Paula;Banco de Dados;0.9;3.4;2.1;Reprovado;0.9
+Ana Paula;Engenharia de Software;7.8;8.9;8.3;Aprovado;7.8
+João da Silva;Cálculo I;5.5;7.3;6.4;Reprovado;5.5
+João da Silva;Física I;9.6;2.8;6.2;Reprovado;9.6
+João da Silva;Algoritmos;8.2;2.3;5.2;Reprovado;8.2
+João da Silva;Banco de Dados;5.3;0.6;2.9;Reprovado;5.3
+João da Silva;Engenharia de Software;0.5;0.9;0.7;Reprovado;0.5
+Rafael Pereira;Cálculo I;4.3;4.2;4.2;Reprovado;4.3
+Rafael Pereira;Física I;4.1;8.4;6.2;Reprovado;4.1
+Rafael Pereira;Algoritmos;9.8;5.9;7.9;Aprovado;9.8
+Rafael Pereira;Banco de Dados;3.3;8.7;6.0;Reprovado;3.3
+Rafael Pereira;Engenharia de Software;2.1;3.8;3.0;Reprovado;2.1
+Camila Costa;Cálculo I;1.1;6.9;4.0;Reprovado;1.1
+Camila Costa;Física I;6.9;1.1;4.0;Reprovado;6.9
+Camila Costa;Algoritmos;8.1;9.6;8.8;Aprovado;8.1
+Camila Costa;Banco de Dados;0.9;7.1;4.0;Reprovado;0.9
+Camila Costa;Engenharia de Software;4.3;6.0;5.2;Reprovado;4.3
+Ana Paula;Cálculo I;4.6;2.2;3.4;Reprovado;4.6
+Ana Paula;Física I;0.9;6.7;3.8;Reprovado;0.9
+Ana Paula;Algoritmos;0.2;5.6;2.9;Reprovado;0.2
+Ana Paula;Banco de Dados;1.9;2.5;2.2;Reprovado;1.9
+Ana Paula;Engenharia de Software;4.3;7.5;5.9;Reprovado;4.3
+João da Silva;Cálculo I;1.9;5.9;3.9;Reprovado;1.9
+João da Silva;Física I;5.5;1.3;3.4;Reprovado;5.5
+João da Silva;Algoritmos;2.7;9.7;6.2;Reprovado;2.7
+João da Silva;Banco de Dados;7.2;6.6;6.9;Reprovado;7.2
+João da Silva;Engenharia de Software;4.6;8.8;6.7;Reprovado;4.6
+Ana Paula;Cálculo I;5.9;0.7;3.3;Reprovado;5.9
+Ana Paula;Física I;0.2;0.2;0.2;Reprovado;0.2
+Ana Paula;Algoritmos;3.9;7.0;5.5;Reprovado;3.9
+Ana Paula;Banco de Dados;3.1;5.6;4.3;Reprovado;3.1
+Ana Paula;Engenharia de Software;0.0;4.9;2.5;Reprovado;0.0
+Fernanda Lima;Cálculo I;1.1;5.2;3.2;Reprovado;1.1
+Fernanda Lima;Física I;2.8;1.2;2.0;Reprovado;2.8
+Fernanda Lima;Algoritmos;4.9;0.5;2.7;Reprovado;4.9
+Fernanda Lima;Banco de Dados;7.4;6.6;7.0;Aprovado;7.4
+Fernanda Lima;Engenharia de Software;2.1;8.5;5.3;Reprovado;2.1
+Pedro Santos;Cálculo I;8.1;0.9;4.5;Reprovado;8.1
+Pedro Santos;Física I;0.7;8.1;4.4;Reprovado;0.7
+Pedro Santos;Algoritmos;9.6;6.6;8.1;Aprovado;9.6
+Pedro Santos;Banco de Dados;4.8;6.8;5.8;Reprovado;4.8
+Pedro Santos;Engenharia de Software;2.1;8.2;5.1;Reprovado;2.1
+Juliana Moura;Cálculo I;0.8;6.5;3.6;Reprovado;0.8
+Juliana Moura;Física I;0.9;4.1;2.5;Reprovado;0.9
+Juliana Moura;Algoritmos;0.4;5.5;3.0;Reprovado;0.4
+Juliana Moura;Banco de Dados;0.0;2.4;1.2;Reprovado;0.0
+Juliana Moura;Engenharia de Software;6.9;0.1;3.5;Reprovado;6.9
+Carlos Eduardo;Cálculo I;5.3;1.1;3.2;Reprovado;5.3
+Carlos Eduardo;Física I;4.2;7.1;5.7;Reprovado;4.2
+Carlos Eduardo;Algoritmos;6.6;3.1;4.8;Reprovado;6.6
+Carlos Eduardo;Banco de Dados;0.1;5.7;2.9;Reprovado;0.1
+Carlos Eduardo;Engenharia de Software;6.9;8.9;7.9;Aprovado;6.9
+Rafael Pereira;Cálculo I;3.8;4.7;4.2;Reprovado;3.8
+Rafael Pereira;Física I;3.5;0.0;1.8;Reprovado;3.5
+Rafael Pereira;Algoritmos;4.3;4.0;4.2;Reprovado;4.3
+Rafael Pereira;Banco de Dados;8.9;9.2;9.1;Aprovado;8.9
+Rafael Pereira;Engenharia de Software;7.9;6.5;7.2;Aprovado;7.9
+Rafael Pereira;Cálculo I;2.8;0.6;1.7;Reprovado;2.8
+Rafael Pereira;Física I;0.0;1.3;0.7;Reprovado;0.0
+Rafael Pereira;Algoritmos;0.5;4.5;2.5;Reprovado;0.5
+Rafael Pereira;Banco de Dados;7.3;3.9;5.6;Reprovado;7.3
+Rafael Pereira;Engenharia de Software;9.6;3.7;6.7;Reprovado;9.6
+Rafael Pereira;Cálculo I;5.1;0.2;2.6;Reprovado;5.1
+Rafael Pereira;Física I;1.1;1.8;1.5;Reprovado;1.1
+Rafael Pereira;Algoritmos;7.1;2.6;4.8;Reprovado;7.1
+Rafael Pereira;Banco de Dados;9.5;4.5;7.0;Aprovado;9.5
+Rafael Pereira;Engenharia de Software;9.8;3.1;6.5;Reprovado;9.8
+Juliana Moura;Cálculo I;1.9;1.9;1.9;Reprovado;1.9
+Juliana Moura;Física I;4.7;3.9;4.3;Reprovado;4.7
+Juliana Moura;Algoritmos;1.8;0.0;0.9;Reprovado;1.8
+Juliana Moura;Banco de Dados;6.7;6.7;6.7;Reprovado;6.7
+Juliana Moura;Engenharia de Software;7.3;6.7;7.0;Aprovado;7.3
+Maria Oliveira;Cálculo I;1.6;3.7;2.7;Reprovado;1.6
+Maria Oliveira;Física I;5.1;6.8;5.9;Reprovado;5.1
+Maria Oliveira;Algoritmos;2.1;5.2;3.7;Reprovado;2.1
+Maria Oliveira;Banco de Dados;6.4;8.8;7.6;Aprovado;6.4
+Maria Oliveira;Engenharia de Software;8.4;4.8;6.6;Reprovado;8.4
+João da Silva;Cálculo I;2.6;7.0;4.8;Reprovado;2.6
+João da Silva;Física I;2.5;6.6;4.5;Reprovado;2.5
+João da Silva;Algoritmos;3.2;6.9;5.1;Reprovado;3.2
+João da Silva;Banco de Dados;2.7;7.7;5.2;Reprovado;2.7
+João da Silva;Engenharia de Software;4.4;9.8;7.1;Aprovado;4.4
+Pedro Santos;Cálculo I;2.1;2.8;2.5;Reprovado;2.1
+Pedro Santos;Física I;8.8;7.2;8.0;Aprovado;8.8
+Pedro Santos;Algoritmos;6.2;7.9;7.1;Aprovado;6.2
+Pedro Santos;Banco de Dados;7.6;9.9;8.8;Aprovado;7.6
+Pedro Santos;Engenharia de Software;7.3;6.8;7.0;Aprovado;7.3
+Pedro Santos;Cálculo I;7.3;0.4;3.9;Reprovado;7.3
+Pedro Santos;Física I;8.6;6.0;7.3;Aprovado;8.6
+Pedro Santos;Algoritmos;1.6;7.0;4.3;Reprovado;1.6
+Pedro Santos;Banco de Dados;2.5;1.0;1.8;Reprovado;2.5
+Pedro Santos;Engenharia de Software;2.0;7.2;4.6;Reprovado;2.0
+Fernanda Lima;Cálculo I;0.3;0.4;0.3;Reprovado;0.3
+Fernanda Lima;Física I;6.6;9.7;8.1;Aprovado;6.6
+Fernanda Lima;Algoritmos;8.9;6.8;7.8;Aprovado;8.9
+Fernanda Lima;Banco de Dados;7.5;1.0;4.2;Reprovado;7.5
+Fernanda Lima;Engenharia de Software;3.1;0.5;1.8;Reprovado;3.1
+Carlos Eduardo;Cálculo I;8.3;0.5;4.4;Reprovado;8.3
+Carlos Eduardo;Física I;5.1;5.5;5.3;Reprovado;5.1
+Carlos Eduardo;Algoritmos;8.9;1.3;5.1;Reprovado;8.9
+Carlos Eduardo;Banco de Dados;3.6;5.6;4.6;Reprovado;3.6
+Carlos Eduardo;Engenharia de Software;5.3;6.1;5.7;Reprovado;5.3
+Luiz Henrique;Cálculo I;3.5;4.1;3.8;Reprovado;3.5
+Luiz Henrique;Física I;0.2;2.3;1.2;Reprovado;0.2
+Luiz Henrique;Algoritmos;2.9;7.6;5.2;Reprovado;2.9
+Luiz Henrique;Banco de Dados;1.0;5.1;3.0;Reprovado;1.0
+Luiz Henrique;Engenharia de Software;6.1;4.9;5.5;Reprovado;6.1
+Maria Oliveira;Cálculo I;4.6;4.4;4.5;Reprovado;4.6
+Maria Oliveira;Física I;0.0;1.5;0.8;Reprovado;0.0
+Maria Oliveira;Algoritmos;1.8;1.8;1.8;Reprovado;1.8
+Maria Oliveira;Banco de Dados;6.5;4.1;5.3;Reprovado;6.5
+Maria Oliveira;Engenharia de Software;7.7;2.8;5.2;Reprovado;7.7
+Ana Paula;Cálculo I;1.4;0.3;0.8;Reprovado;1.4
+Ana Paula;Física I;4.2;5.0;4.6;Reprovado;4.2
+Ana Paula;Algoritmos;3.7;0.8;2.2;Reprovado;3.7
+Ana Paula;Banco de Dados;3.6;9.3;6.5;Reprovado;3.6
+Ana Paula;Engenharia de Software;2.7;8.5;5.6;Reprovado;2.7
+Juliana Moura;Cálculo I;9.6;2.1;5.8;Reprovado;9.6
+Juliana Moura;Física I;6.9;5.2;6.1;Reprovado;6.9
+Juliana Moura;Algoritmos;7.9;2.9;5.4;Reprovado;7.9
+Juliana Moura;Banco de Dados;4.4;5.2;4.8;Reprovado;4.4
+Juliana Moura;Engenharia de Software;6.1;1.9;4.0;Reprovado;6.1
